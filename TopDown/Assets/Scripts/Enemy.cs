@@ -2,10 +2,11 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
+    Health health;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        health = GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
     }
 
     // Update is called once per frame
@@ -17,7 +18,7 @@ public class Enemy : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Player hit");
+            health.TakeDamage(1);
         }
     }
 }
