@@ -9,12 +9,17 @@ public class PlayerController : MonoBehaviour
     private float speed = 3.0f;
     Animator animator;
     SpriteRenderer spriteRenderer;
+    
+
+    [SerializeField] private Vector2 resetPLayer;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        resetPLayer = transform.position;
+        
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -56,6 +61,11 @@ public class PlayerController : MonoBehaviour
         {
             spriteRenderer.flipX = false;
         }
+    }
+
+    public void ResetPlayer()
+    {
+        transform.position = resetPLayer;
     }
     
 }

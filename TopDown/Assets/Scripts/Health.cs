@@ -4,20 +4,20 @@ using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField, Range(0, 10)]
-    private float maxhealth = 5;
-    [SerializeField]
-    private float currenthealth;
+    [SerializeField, Range(0, 10)] private float maxhealth = 5;
+    [SerializeField] private float currenthealth;
 
     [SerializeField] private string lossScene = "Loss";
     
-    [SerializeField]
-    private TextMeshProUGUI healthText;
+    [SerializeField] private TextMeshProUGUI healthText;
+    
+    private PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         currenthealth = maxhealth;
         healthText.text = currenthealth.ToString();
+        playerController = GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
@@ -50,6 +50,7 @@ public class Health : MonoBehaviour
         else
         {
             currenthealth -= amount;
+            playerController.ResetPlayer();
         }
         healthText.text = currenthealth.ToString();
     }
