@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class Health : MonoBehaviour
     private float maxhealth = 5;
     [SerializeField]
     private float currenthealth;
+
+    [SerializeField] private string lossScene = "Loss";
     
     [SerializeField]
     private TextMeshProUGUI healthText;
@@ -39,9 +42,10 @@ public class Health : MonoBehaviour
 
     public void TakeDamage(float amount)
     {
-        if (currenthealth - amount < 0)
+        if (currenthealth - amount <= 0)
         {
             currenthealth = 0;
+            SceneManager.LoadScene(lossScene);
         }
         else
         {
