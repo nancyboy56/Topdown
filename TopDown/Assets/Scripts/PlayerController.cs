@@ -7,10 +7,12 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     [SerializeField, Range(0,20)]
     private float speed = 3.0f;
+    Animator animator;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -21,7 +23,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Animations();
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -30,4 +32,11 @@ public class PlayerController : MonoBehaviour
         direction = context.ReadValue<Vector2>();
         rb.linearVelocity = direction * speed;
     }
+
+    void Animations()
+    {
+        animator.SetFloat("MoveX", direction.x);
+        animator.SetFloat("MoveY", direction.y);
+    }
+    
 }
