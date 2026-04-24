@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Animations();
+        
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -33,13 +33,17 @@ public class PlayerController : MonoBehaviour
         Debug.Log(context.ReadValue<Vector2>().ToString());
         direction = context.ReadValue<Vector2>();
         rb.linearVelocity = direction * speed;
-        Flip();
+        Animations();
+       
     }
 
     void Animations()
     {
         animator.SetFloat("MoveX", direction.x);
         animator.SetFloat("MoveY", direction.y);
+        
+        //checks if character needs to flip
+        Flip();
     }
 
     void Flip()
