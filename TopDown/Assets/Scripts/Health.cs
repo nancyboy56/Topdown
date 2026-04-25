@@ -38,6 +38,8 @@ public class Health : MonoBehaviour
         }
         
         healthText.text = currenthealth.ToString();
+
+        PlayerPrefs.SetFloat("Health", currenthealth);
     }
 
     public void TakeDamage(float amount)
@@ -53,6 +55,7 @@ public class Health : MonoBehaviour
             playerController.ResetPlayer();
         }
         healthText.text = currenthealth.ToString();
+        PlayerPrefs.SetFloat("Health", currenthealth);
     }
 
     public float GetHealth()

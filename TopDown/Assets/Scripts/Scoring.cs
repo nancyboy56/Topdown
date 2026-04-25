@@ -22,5 +22,6 @@ public class Scoring : MonoBehaviour
     {
         score += number;
         ScoreText.text = score.ToString();
+        PlayerPrefs.SetFloat("Score", score);
     }
 }
