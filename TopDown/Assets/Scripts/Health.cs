@@ -10,6 +10,8 @@ public class Health : MonoBehaviour
     [SerializeField] private string lossScene = "Loss";
     
     [SerializeField] private TextMeshProUGUI healthText;
+
+    [SerializeField] private Sounds SM;
     
     private PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -56,6 +58,7 @@ public class Health : MonoBehaviour
         }
         healthText.text = currenthealth.ToString();
         PlayerPrefs.SetFloat("Health", currenthealth);
+        SM.Enemy();
     }
 
     public float GetHealth()

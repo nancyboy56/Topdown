@@ -19,6 +19,8 @@ public class Enemy : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             health.TakeDamage(1);
+
+            
         }
     }
 }
