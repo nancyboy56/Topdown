@@ -586,6 +586,7 @@ GameObject:
   - component: {fileID: 744929648}
   - component: {fileID: 744929647}
   - component: {fileID: 744929646}
+  - component: {fileID: 744929649}
   m_Layer: 5
   m_Name: Play
   m_TagString: Untagged
@@ -655,7 +656,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 744929647}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 744929649}
+        m_TargetAssemblyTypeName: Navigation, Assembly-CSharp
+        m_MethodName: Load
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Level
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &744929647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -756,6 +769,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 744929644}
   m_CullTransparentMesh: 1
+--- !u!114 &744929649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 744929644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5838a6ffd3b7e40f39d3d48ce4e76957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Navigation
 --- !u!1 &833890683
 GameObject:
   m_ObjectHideFlags: 0
@@ -905,12 +930,12 @@ GameObject:
   - component: {fileID: 953551740}
   - component: {fileID: 953551739}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Credits Panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &953551738
 RectTransform:
   m_ObjectHideFlags: 0
