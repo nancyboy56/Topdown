@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: da632990232ed476faca9c4e18ecab6b
+guid: ad1d9da37a96048f892b9fd157301cfc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1747149629651513639
-    second: scoreicon_0
+      213: 6369472510701187605
+    second: UiGameOverlay-grid_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: scoreicon_0
+      name: UiGameOverlay-grid_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 26
-        width: 139
-        height: 143
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 72175d4d45f1f3810800000000000000
-      internalID: 1747149629651513639
+      spriteID: 512b5f66089e46850800000000000000
+      internalID: 6369472510701187605
       vertices: []
       indices: 
       edges: []
@@ -200,7 +200,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      scoreicon_0: 1747149629651513639
+      UiGameOverlay-grid_0: 6369472510701187605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
