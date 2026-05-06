@@ -1,3 +1,5 @@
+using System;
+using System.Collections;
 using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
@@ -5,7 +7,7 @@ using UnityEngine.InputSystem;
 public class NPCDialouge : MonoBehaviour
 {
     [SerializeField]
-    private string[] dialogueLines;
+    private string[] dialogue;
     [SerializeField]
     private TextMeshProUGUI dialogueText;
     [SerializeField]
@@ -15,6 +17,10 @@ public class NPCDialouge : MonoBehaviour
     private bool playerInRange = false;
     private bool dialogueActive = false;
     
+    private int currentCharacter = 0;
+
+    [SerializeField, Range(0,2)] private float textSpeed = 1;
+  
 
     void Start()
     {
@@ -24,6 +30,8 @@ public class NPCDialouge : MonoBehaviour
         
         PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
         input.actions["Interact"].performed += DisplayNextLine;
+        
+        
     }
 
     public void DisplayNextLine(InputAction.CallbackContext context)
@@ -31,30 +39,46 @@ public class NPCDialouge : MonoBehaviour
        
         if (context.canceled && dialogueActive)
         {
-            Debug.Log(dialogueLines[currentLine]);
+            Debug.Log(dialogue[currentLine]);
             NextLine();
         }
     }
 
     void StartDialogue()
     {
+        Debug.Log("starting dialouge;");
         dialogueActive = true;
         dialogueBox.SetActive(true);
         currentLine = 0;
-        dialogueText.text = dialogueLines[currentLine];
+        currentCharacter = 0;
+        
+       // dialogueText.text = dialogue[currentLine];
+       StartCoroutine(ShowText());
+    }
+
+    IEnumerator ShowText()
+    {
+        
+        while (currentCharacter < dialogue[currentLine].Length)
+        {
+            dialogueText.text = dialogue[currentLine].Substring(0, currentCharacter);
+            currentCharacter++;
+            yield return new WaitForSeconds(textSpeed);
+        }
+        
     }
 
     void NextLine()
     {
         currentLine++;
 
-        if (currentLine >= dialogueLines.Length)
+        if (currentLine >= dialogue.Length)
         {
             EndDialogue();
         }
         else
         {
-            dialogueText.text = dialogueLines[currentLine];
+            currentCharacter = 0;
         }
     }
 

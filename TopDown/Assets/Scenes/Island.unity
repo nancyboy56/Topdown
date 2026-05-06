@@ -356,7 +356,7 @@ GameObject:
   - component: {fileID: 195841096}
   m_Layer: 0
   m_Name: Collect (4)
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -411,7 +411,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.83, y: 0.68}
+    oldSize: {x: 0.83, y: 0.84}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -468,7 +468,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1427715103671806024, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
+  m_Sprite: {fileID: -4166523019004753975, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -487,7 +487,7 @@ Transform:
   m_GameObject: {fileID: 195841095}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.1799998, y: 2.2, z: 0}
+  m_LocalPosition: {x: 6.33, y: 6.79, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -506,7 +506,7 @@ GameObject:
   - component: {fileID: 222620184}
   m_Layer: 6
   m_Name: North Bound
-  m_TagString: NS Bounds
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -918,12 +918,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a614fe02195a746e6ab6386ab3bdb68f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialouge
-  dialogueLines:
-  - hellooooo
-  - how are you
-  - byeeeeeeee
+  dialogue:
+  - gelloooo
+  - woooo
+  - byeeeee
   dialogueText: {fileID: 640948786}
   dialogueBox: {fileID: 556947065}
+  textSpeed: 1
 --- !u!61 &359094467
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -984,7 +985,7 @@ GameObject:
   - component: {fileID: 383322657}
   m_Layer: 0
   m_Name: Collect (3)
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1039,7 +1040,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.83, y: 0.68}
+    oldSize: {x: 0.83, y: 0.8}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1096,7 +1097,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1427715103671806024, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
+  m_Sprite: {fileID: 9033466922457515583, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1115,7 +1116,7 @@ Transform:
   m_GameObject: {fileID: 383322656}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.71, y: -2.13, z: 0}
+  m_LocalPosition: {x: 0.47, y: 1.47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1344,10 +1345,10 @@ MonoBehaviour:
     m_ActionName: 'Player/Attack[/Mouse/leftButton,/Keyboard/enter]'
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: a614fe02195a746e6ab6386ab3bdb68f, type: 3}
-        m_TargetAssemblyTypeName: UnityEditor.MonoScript, UnityEditor.CoreModule
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 359094466}
+        m_TargetAssemblyTypeName: NPCDialouge, Assembly-CSharp
+        m_MethodName: DisplayNextLine
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -2157,7 +2158,7 @@ GameObject:
   - component: {fileID: 799266444}
   m_Layer: 0
   m_Name: Collect (5)
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2212,7 +2213,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.83, y: 0.68}
+    oldSize: {x: 0.84, y: 0.84}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2269,7 +2270,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1427715103671806024, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
+  m_Sprite: {fileID: 8317505399746532604, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2288,7 +2289,7 @@ Transform:
   m_GameObject: {fileID: 799266443}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 4.49, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14500,7 +14501,7 @@ GameObject:
   - component: {fileID: 922396806}
   m_Layer: 6
   m_Name: South Bound
-  m_TagString: NS Bounds
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14963,7 +14964,7 @@ GameObject:
   - component: {fileID: 1142079899}
   m_Layer: 0
   m_Name: Collect (1)
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15018,7 +15019,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.83, y: 0.68}
+    oldSize: {x: 0.84, y: 0.7}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -15075,7 +15076,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1427715103671806024, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
+  m_Sprite: {fileID: -6721807335299394466, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15094,7 +15095,7 @@ Transform:
   m_GameObject: {fileID: 1142079898}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.0200002, y: 1.55, z: 0}
+  m_LocalPosition: {x: -1.0200002, y: 6.65, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15886,7 +15887,7 @@ GameObject:
   - component: {fileID: 1747458025}
   m_Layer: 0
   m_Name: Collect
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15940,7 +15941,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 4
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 1427715103671806024, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
+  m_Sprite: {fileID: -46884033048765166, guid: 8be776fb9550849cb89bb68cff7dbb6e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -15959,7 +15960,7 @@ Transform:
   m_GameObject: {fileID: 1747458021}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -5, z: 0}
+  m_LocalPosition: {x: 2.37, y: 0.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16003,7 +16004,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.83, y: 0.68}
+    oldSize: {x: 0.72, y: 0.84}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -51561,7 +51562,7 @@ GameObject:
   - component: {fileID: 1949652331}
   - component: {fileID: 1949652330}
   m_Layer: 0
-  m_Name: Rule Tile (1)
+  m_Name: Island
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53092,7 +53093,7 @@ GameObject:
   - component: {fileID: 1966364218}
   m_Layer: 0
   m_Name: Collect (2)
-  m_TagString: Untagged
+  m_TagString: Collect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53223,7 +53224,7 @@ Transform:
   m_GameObject: {fileID: 1966364217}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.08, y: 1.16, z: 0}
+  m_LocalPosition: {x: 4.75, y: 4.85, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

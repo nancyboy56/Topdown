@@ -7,6 +7,7 @@ TagManager:
   - GM
   - SM
   - NS Bounds
+  - Collect
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - Water
   - UI
   - Bounds
-  - 
+  - Items
   - 
   - 
   - 
