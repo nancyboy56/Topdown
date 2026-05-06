@@ -924,7 +924,7 @@ MonoBehaviour:
   - byeeeee
   dialogueText: {fileID: 640948786}
   dialogueBox: {fileID: 556947065}
-  textSpeed: 1
+  textSpeed: 0.4
 --- !u!61 &359094467
 BoxCollider2D:
   m_ObjectHideFlags: 0
