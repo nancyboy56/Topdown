@@ -72,6 +72,12 @@ public class NPCDialouge : MonoBehaviour
     {
         currentLine++;
 
+        if (currentCharacter >= dialogue[currentLine].Length-1)
+        {
+            StartCoroutine(ShowText());
+        }
+        
+
         if (currentLine >= dialogue.Length)
         {
             EndDialogue();
