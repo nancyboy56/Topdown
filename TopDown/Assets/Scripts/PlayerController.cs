@@ -35,7 +35,7 @@ public class PlayerController : MonoBehaviour
 
     public void Move(InputAction.CallbackContext context)
     {
-        Debug.Log(context.ReadValue<Vector2>().ToString());
+//        Debug.Log(context.ReadValue<Vector2>().ToString());
         direction = context.ReadValue<Vector2>();
         rb.linearVelocity = direction * speed;
         Animations();

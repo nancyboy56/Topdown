@@ -1,24 +1,37 @@
 using UnityEngine;
+using TMPro;
+using UnityEngine.InputSystem;
 
 public class NPCDialouge : MonoBehaviour
 {
-    public string[] dialogueLines;
-    public TextMeshProUGUI dialogueText;
-    public GameObject dialogueBox;
+    [SerializeField]
+    private string[] dialogueLines;
+    [SerializeField]
+    private TextMeshProUGUI dialogueText;
+    [SerializeField]
+    private GameObject dialogueBox;
 
     private int currentLine = 0;
     private bool playerInRange = false;
     private bool dialogueActive = false;
+    
 
     void Start()
     {
+        // get dialouge lines to read from a file
+        
         dialogueBox.SetActive(false);
+        
+        PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
+        input.actions["Interact"].performed += DisplayNextLine;
     }
 
-    public void DisplayNextLine()
+    public void DisplayNextLine(InputAction.CallbackContext context)
     {
-        if (dialogueActive && Input.GetKeyDown(KeyCode.Space))
+       
+        if (context.canceled && dialogueActive)
         {
+            Debug.Log(dialogueLines[currentLine]);
             NextLine();
         }
     }
