@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: ff3400524f1b746b281499f9c8377537
+guid: dbbe2efb2dea94360b2141f3c016cd5a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5378939746643542166
-    second: ghosts 1_0
-  - first:
-      213: -5758194371331870933
-    second: ghosts 1_1
-  - first:
-      213: -1196865151870823823
-    second: ghosts 1_2
-  - first:
-      213: 5959151296859613445
-    second: ghosts 1_3
-  - first:
-      213: 2626936926366780692
-    second: ghosts 1_4
+      213: -7515685773309352099
+    second: Player v0.1 x0.33_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -87,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -177,13 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ghosts 1_0
+      name: Player v0.1 x0.33_0
       rect:
         serializedVersion: 2
-        x: 204
-        y: 795
-        width: 26
-        height: 29
+        x: 124
+        y: 45
+        width: 208
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,96 +180,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6ff41d9cca2a55b0800000000000000
-      internalID: -5378939746643542166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghosts 1_1
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 821
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2f2c1d3ab8c610b0800000000000000
-      internalID: -5758194371331870933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghosts 1_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 602
-        height: 814
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 17212b25c71e36fe0800000000000000
-      internalID: -1196865151870823823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghosts 1_3
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 813
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5092024188823b250800000000000000
-      internalID: 5959151296859613445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ghosts 1_4
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 813
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41dc2776731c47420800000000000000
-      internalID: 2626936926366780692
+      spriteID: d576076eb9be2b790800000000000000
+      internalID: -7515685773309352099
       vertices: []
       indices: 
       edges: []
@@ -300,11 +200,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ghosts 1_0: -5378939746643542166
-      ghosts 1_1: -5758194371331870933
-      ghosts 1_2: -1196865151870823823
-      ghosts 1_3: 5959151296859613445
-      ghosts 1_4: 2626936926366780692
+      Player v0.1 x0.33_0: -7515685773309352099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
