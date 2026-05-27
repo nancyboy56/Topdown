@@ -48,6 +48,9 @@ TagManager:
   - name: Sea
     uniqueID: 1294351035
     locked: 0
+  - name: Gesso
+    uniqueID: 2778668529
+    locked: 0
   - name: Ground
     uniqueID: 3886631289
     locked: 0
