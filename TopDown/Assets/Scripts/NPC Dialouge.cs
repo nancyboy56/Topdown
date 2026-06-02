@@ -23,6 +23,9 @@ public class NPCDialouge : MonoBehaviour
     [SerializeField] private int currentCharacter = 0;
     [SerializeField] private bool isPrinting = false;
     [SerializeField] private int lineType =0;
+    [SerializeField] private GameObject desire;
+    [SerializeField] private GameObject gift;
+    [SerializeField] private bool giveDesire;
 
     [SerializeField, Range(0,2)] private float textSpeed = 1;
   
@@ -61,18 +64,20 @@ public class NPCDialouge : MonoBehaviour
     void StartDialogue(int line)
     {
         Debug.Log("starting dialouge;");
-        dialogueActive = true;
-        dialogueBox.SetActive(true);
         currentLine = 0;
         currentCharacter = 0;
         lineType = line;
-       // dialogueText.text = dialogue[currentLine];
-       StartCoroutine(ShowText());
+        if (!dialogueActive)
+        {
+            StartCoroutine(ShowText());
+            dialogueActive = true;
+            dialogueBox.SetActive(true);
+        }
+       
     }
 
     IEnumerator ShowText()
     {
-        
         while (dialogueActive)
         {
             isPrinting = true;
@@ -105,14 +110,31 @@ public class NPCDialouge : MonoBehaviour
         {
             Debug.Log("theres no more lines");
             currentCharacter = 0;
+
+            if (lineType == 1)
+            {
+                if (gift == desire)
+                {
+                    //correct gift
+                    StartDialogue(3);
+                    
+                }
+                else
+                {
+                    //bad gift
+                    
+                    StartDialogue(2);
+                }
+            }
         }
         
         
     }
 
-    public void GiveObject()
+    public void GiveObject(GameObject obj)
     {
-        
+        gift = obj;
+        StartDialogue(1);
     }
 
     void EndDialogue()
@@ -125,8 +147,15 @@ public class NPCDialouge : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            if (giveDesire)
+            {
+                StartDialogue(3);
+            }
+            else
+            {
+                StartDialogue(0);
+            }
             
-            StartDialogue(0);
             
         }
     }
