@@ -9,6 +9,7 @@ public class PickUp : MonoBehaviour
     [SerializeField] GameObject canHold;
 
     [SerializeField] private bool canPickUp;
+    [SerializeField] private bool canGive;
 
     [SerializeField] private float throwSpeed = 3;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -17,7 +18,7 @@ public class PickUp : MonoBehaviour
         PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
         
         // works be
-        input.actions["PickUp"].canceled += ItemInteract;
+        input.actions["Pickup"].canceled += ItemInteract;
     }
 
 
@@ -55,8 +56,8 @@ public class PickUp : MonoBehaviour
         canHold = null;
         
         // i think this has to be a ridbody body at some point 
-        holdSpot.transform.position = transform.position;
-        holding.transform.SetParent(holdSpot.transform, false);
+        holdSpot.transform.position = Vector3.zero;
+        holding.transform.SetParent(holdSpot.transform, true);
         foreach (BoxCollider2D box in holding.GetComponentsInChildren<BoxCollider2D>())
         {
             box.enabled = false;
@@ -86,6 +87,10 @@ public class PickUp : MonoBehaviour
         {
             canHold = other.gameObject;
             canPickUp = true;
+            
+        } else if (other.CompareTag("NPC"))
+        {
+            canGive = true;
         }
     }
 
@@ -95,6 +100,10 @@ public class PickUp : MonoBehaviour
         {
             canHold = null;
             canPickUp = false;
+            
+        } else if (other.CompareTag("NPC"))
+        {
+            canGive = false;
         }
     }
 }
