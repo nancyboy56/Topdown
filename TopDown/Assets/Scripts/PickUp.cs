@@ -5,11 +5,12 @@ using UnityEngine.InputSystem;
 public class PickUp : MonoBehaviour
 {
     [SerializeField] GameObject holdSpot;
-    [SerializeField] GameObject holding;
+    [SerializeField] public GameObject holding;
     [SerializeField] GameObject canHold;
 
     [SerializeField] private bool canPickUp;
     [SerializeField] private bool canGive;
+    [SerializeField] private NPCDialouge npc;
 
     [SerializeField] private float throwSpeed = 3;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -38,16 +39,37 @@ public class PickUp : MonoBehaviour
                 }
                 else
                 {
-                    Throw();
-                    PickUpObject();
+                    if (canGive)
+                    {
+                        Give();
+                    }
+                    else
+                    {
+                        Throw();
+                        PickUpObject();
+                    }
+                    
                 }
             }
             else
             {
-                // throws when it has nothing to hold
-                Throw();
+                if (canGive && holding !=null)
+                {
+                    Give();
+                }
+                else
+                {
+                    // throws when it has nothing to hold
+                    Throw();
+                }
+               
             }
         }
+    }
+
+    private void Give()
+    {
+        npc.GiveObject(holding, this);
     }
 
     private void PickUpObject()
@@ -91,6 +113,7 @@ public class PickUp : MonoBehaviour
         } else if (other.CompareTag("NPC"))
         {
             canGive = true;
+            npc = other.gameObject.GetComponent<NPCDialouge>();
         }
     }
 
@@ -104,6 +127,7 @@ public class PickUp : MonoBehaviour
         } else if (other.CompareTag("NPC"))
         {
             canGive = false;
+            npc = null;
         }
     }
 }

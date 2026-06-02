@@ -5,6 +5,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
+using Random = UnityEngine.Random;
 
 public class NPCDialouge : MonoBehaviour
 {
@@ -21,13 +22,23 @@ public class NPCDialouge : MonoBehaviour
     [SerializeField] private bool dialogueActive = false;
     
     [SerializeField] private int currentCharacter = 0;
-    [SerializeField] private bool isPrinting = false;
     [SerializeField] private int lineType =0;
     [SerializeField] private GameObject desire;
     [SerializeField] private GameObject gift;
     [SerializeField] private bool giveDesire;
 
-    [SerializeField, Range(0,2)] private float textSpeed = 1;
+    [SerializeField] private GameObject outline;
+    [SerializeField] private GameObject item;
+    
+    [SerializeField] private GameObject holding;
+    [SerializeField] private PickUp playerItems;
+
+    [SerializeField, Range(0,2)] private float textSpeed = 0.3f;
+    [SerializeField, Range(0, 30)] private float itemRange = 10;
+
+    [SerializeField] private Health playerhealth;
+    [SerializeField] private Scoring score;
+   
   
 
     void Start()
@@ -37,15 +48,20 @@ public class NPCDialouge : MonoBehaviour
         dialogueBox.SetActive(false);
         
         PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
-        
+        playerhealth= GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
+        score = GameObject.FindGameObjectWithTag("GM").GetComponent<Scoring>();
         // works be
         input.actions["Interact"].canceled += DisplayNextLine;
+        
+        outline.SetActive(true);
+        item.SetActive(false);
         
         
     }
 
     public void DisplayNextLine(InputAction.CallbackContext context)
     {
+        Debug.Log(gameObject.name);
        
        Debug.Log("phase:" + context.phase );
        
@@ -63,24 +79,37 @@ public class NPCDialouge : MonoBehaviour
 
     void StartDialogue(int line)
     {
+        Debug.Log(gameObject.name);
         Debug.Log("starting dialouge;");
         currentLine = 0;
         currentCharacter = 0;
         lineType = line;
-        if (!dialogueActive)
+        Debug.Log("diag:"+ dialogueActive);
+
+        if (dialogueActive)
         {
-            StartCoroutine(ShowText());
+            NextLine();
+        }
+        else
+        {
             dialogueActive = true;
             dialogueBox.SetActive(true);
+            StartCoroutine(ShowText());
         }
-       
+        
+        
+
+
+
     }
 
     IEnumerator ShowText()
     {
+        Debug.Log("ieieie");
         while (dialogueActive)
         {
-            isPrinting = true;
+            Debug.Log("Prinitng next letter");
+            Debug.Log(CallLine().Substring(0, currentCharacter));
             dialogueText.text = CallLine().Substring(0, currentCharacter);
             if (currentCharacter < CallLine().Length)
             {
@@ -90,7 +119,7 @@ public class NPCDialouge : MonoBehaviour
             yield return new WaitForSeconds(textSpeed);
         }
         
-        isPrinting = false;
+        
         
     }
 
@@ -117,13 +146,29 @@ public class NPCDialouge : MonoBehaviour
                 {
                     //correct gift
                     StartDialogue(3);
+                    gift.transform.position = Vector3.zero;
+                    gift.transform.SetParent(holding.transform, true);
+                    playerItems.holding = null;
+                    playerItems = null;
+                    outline.SetActive(false);
+                    item.SetActive(true);
                     
+                    //update score
+                    score.AddScore(1);
                 }
                 else
                 {
                     //bad gift
                     
                     StartDialogue(2);
+                    gift.transform.SetParent(holding.transform, true);
+                    playerItems.holding = null;
+                    playerItems = null;
+                    gift.transform.position = new Vector3(Random.Range(itemRange, -itemRange), Random.Range(itemRange, -itemRange), 0);
+                    gift = null;
+                    
+                    //do damamge
+                    playerhealth.TakeDamage(1);
                 }
             }
         }
@@ -131,9 +176,10 @@ public class NPCDialouge : MonoBehaviour
         
     }
 
-    public void GiveObject(GameObject obj)
+    public void GiveObject(GameObject obj, PickUp p)
     {
         gift = obj;
+        playerItems = p;
         StartDialogue(1);
     }
 
@@ -153,6 +199,7 @@ public class NPCDialouge : MonoBehaviour
             }
             else
             {
+                Debug.Log("statoing");
                 StartDialogue(0);
             }
             
