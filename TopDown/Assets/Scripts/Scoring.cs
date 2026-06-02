@@ -1,13 +1,18 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Scoring : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI ScoreText;
-    TextMeshProUGUI scoreText;
-    float score;
+    private TextMeshProUGUI scoreText;
+    private float score;
 
     [SerializeField] private Sounds SM;
+
+    [SerializeField] private int winScore;
+    [SerializeField] private string winLevel;
+    
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -26,6 +31,15 @@ public class Scoring : MonoBehaviour
         ScoreText.text = score.ToString();
         PlayerPrefs.SetFloat("Score", score);
         SM.Collect();
+        Win();
+    }
 
+    private void Win()
+    {
+        if (score >= winScore)
+        {
+            Debug.Log("You win!");
+            SceneManager.LoadScene(winLevel);
+        }
     }
 }
