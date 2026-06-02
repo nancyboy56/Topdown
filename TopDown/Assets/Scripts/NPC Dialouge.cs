@@ -13,11 +13,12 @@ public class NPCDialouge : MonoBehaviour
     [SerializeField]
     private GameObject dialogueBox;
 
-    private int currentLine = 0;
-    private bool playerInRange = false;
-    private bool dialogueActive = false;
+    [SerializeField] private int currentLine = 0;
+  
+    [SerializeField] private bool dialogueActive = false;
     
-    private int currentCharacter = 0;
+    [SerializeField] private int currentCharacter = 0;
+    [SerializeField] private bool isPrinting = false;
 
     [SerializeField, Range(0,2)] private float textSpeed = 1;
   
@@ -25,11 +26,13 @@ public class NPCDialouge : MonoBehaviour
     void Start()
     {
         // get dialouge lines to read from a file
-        
+        Debug.Log("ghost npcs");
         dialogueBox.SetActive(false);
         
         PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
-        input.actions["Interact"].performed += DisplayNextLine;
+        
+        // works be
+        input.actions["Interact"].canceled += DisplayNextLine;
         
         
     }
@@ -37,10 +40,17 @@ public class NPCDialouge : MonoBehaviour
     public void DisplayNextLine(InputAction.CallbackContext context)
     {
        
+       Debug.Log("phase:" + context.phase );
+       
         if (context.canceled && dialogueActive)
         {
+            Debug.Log("printing.....]");
             Debug.Log(dialogue[currentLine]);
             NextLine();
+        }
+        else
+        {
+            Debug.Log("no printing");
         }
     }
 
@@ -59,33 +69,36 @@ public class NPCDialouge : MonoBehaviour
     IEnumerator ShowText()
     {
         
-        while (currentCharacter < dialogue[currentLine].Length)
+        while (dialogueActive)
         {
+            isPrinting = true;
             dialogueText.text = dialogue[currentLine].Substring(0, currentCharacter);
-            currentCharacter++;
+            if (currentCharacter < dialogue[currentLine].Length)
+            {
+                currentCharacter++;
+            }
+            
             yield return new WaitForSeconds(textSpeed);
         }
+        
+        isPrinting = false;
         
     }
 
     void NextLine()
     {
-        currentLine++;
-
-        if (currentCharacter >= dialogue[currentLine].Length-1)
+        if (currentLine < dialogue.Length-1)
         {
-            StartCoroutine(ShowText());
-        }
-        
-
-        if (currentLine >= dialogue.Length)
-        {
-            EndDialogue();
+            currentLine++;
+            currentCharacter = 0;
         }
         else
         {
+            Debug.Log("theres no more lines");
             currentCharacter = 0;
         }
+        
+        
     }
 
     void EndDialogue()
@@ -98,11 +111,9 @@ public class NPCDialouge : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            playerInRange = true;
-            if (!dialogueActive)
-            {
-                StartDialogue();
-            }
+            
+            StartDialogue();
+            
         }
     }
 
@@ -110,7 +121,8 @@ public class NPCDialouge : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            playerInRange = false;
+            Debug.Log("Exiting");
+            
             EndDialogue();
         }
     }
