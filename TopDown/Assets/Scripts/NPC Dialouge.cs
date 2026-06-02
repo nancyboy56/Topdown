@@ -61,9 +61,9 @@ public class NPCDialouge : MonoBehaviour
 
     public void DisplayNextLine(InputAction.CallbackContext context)
     {
-        Debug.Log(gameObject.name);
+        Debug.Log(gameObject.name +" phase: + context.phase, dialouge: "+ dialogueActive);
        
-       Debug.Log("phase:" + context.phase );
+       //Debug.Log("phase:" + context.phase, );
        
         if (context.canceled && dialogueActive)
         {
@@ -88,6 +88,7 @@ public class NPCDialouge : MonoBehaviour
 
         if (dialogueActive)
         {
+            
             NextLine();
         }
         else
@@ -105,11 +106,11 @@ public class NPCDialouge : MonoBehaviour
 
     IEnumerator ShowText()
     {
-        Debug.Log("ieieie");
+        
         while (dialogueActive)
         {
-            Debug.Log("Prinitng next letter");
-            Debug.Log(CallLine().Substring(0, currentCharacter));
+            
+            
             dialogueText.text = CallLine().Substring(0, currentCharacter);
             if (currentCharacter < CallLine().Length)
             {
@@ -130,8 +131,9 @@ public class NPCDialouge : MonoBehaviour
 
     void NextLine()
     {
-        if (currentLine < CallLine().Length-1)
+        if (currentLine < dialogue[lineType].lines.Length-1)
         {
+            Debug.Log("next lines a go");
             currentLine++;
             currentCharacter = 0;
         }
@@ -145,9 +147,10 @@ public class NPCDialouge : MonoBehaviour
                 if (gift == desire)
                 {
                     //correct gift
-                    StartDialogue(3);
+                    NextBranch(3);
                     gift.transform.position = Vector3.zero;
-                    gift.transform.SetParent(holding.transform, true);
+                    gift.transform.SetParent(holding.transform, false);
+                    
                     playerItems.holding = null;
                     playerItems = null;
                     outline.SetActive(false);
@@ -160,8 +163,8 @@ public class NPCDialouge : MonoBehaviour
                 {
                     //bad gift
                     
-                    StartDialogue(2);
-                    gift.transform.SetParent(holding.transform, true);
+                    NextBranch(2);
+                    gift.transform.SetParent(null, true);
                     playerItems.holding = null;
                     playerItems = null;
                     gift.transform.position = new Vector3(Random.Range(itemRange, -itemRange), Random.Range(itemRange, -itemRange), 0);
@@ -176,11 +179,20 @@ public class NPCDialouge : MonoBehaviour
         
     }
 
+    private void NextBranch(int i)
+    {
+        lineType = i;
+        currentLine = 0;
+        currentCharacter = 0;
+    }
+
     public void GiveObject(GameObject obj, PickUp p)
     {
         gift = obj;
         playerItems = p;
-        StartDialogue(1);
+
+        NextBranch(1);
+        //StartDialogue(1);
     }
 
     void EndDialogue()

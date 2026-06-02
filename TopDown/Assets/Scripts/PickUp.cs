@@ -39,7 +39,7 @@ public class PickUp : MonoBehaviour
                 }
                 else
                 {
-                    if (canGive)
+                    if (canGive && holding != null)
                     {
                         Give();
                     }

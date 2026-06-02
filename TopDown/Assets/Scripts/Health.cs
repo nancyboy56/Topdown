@@ -54,7 +54,7 @@ public class Health : MonoBehaviour
         else
         {
             currenthealth -= amount;
-            playerController.ResetPlayer();
+            //layerController.ResetPlayer();
         }
         healthText.text = currenthealth.ToString();
         PlayerPrefs.SetFloat("Health", currenthealth);
