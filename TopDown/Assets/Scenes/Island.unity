@@ -381,6 +381,37 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &126545290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 126545291}
+  m_Layer: 0
+  m_Name: Hold Spot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &126545291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 126545290}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.21, y: -0.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 745523419}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &162328255
 GameObject:
   m_ObjectHideFlags: 0
@@ -1461,6 +1492,11 @@ Transform:
   - {fileID: 1855223336}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &455165567 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4595874335011099038, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
+  m_PrefabInstance: {fileID: 8470046812193215600}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &455165569 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
@@ -1913,6 +1949,7 @@ MonoBehaviour:
   canHold: {fileID: 0}
   canPickUp: 0
   canGive: 0
+  npc: {fileID: 0}
   throwSpeed: 3
 --- !u!1 &519420028
 GameObject:
@@ -2560,6 +2597,7 @@ GameObject:
   - component: {fileID: 745523419}
   - component: {fileID: 745523418}
   - component: {fileID: 745523420}
+  - component: {fileID: 745523421}
   m_Layer: 0
   m_Name: Ghost 1
   m_TagString: NPC
@@ -2641,6 +2679,7 @@ Transform:
   m_Children:
   - {fileID: 1197625875}
   - {fileID: 1341155837}
+  - {fileID: 126545291}
   m_Father: {fileID: 759155602}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &745523420
@@ -2689,6 +2728,55 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 11.611414, y: 6.011196}
   m_EdgeRadius: 0
+--- !u!114 &745523421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 745523417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a614fe02195a746e6ab6386ab3bdb68f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialouge
+  dialogue:
+  - lines:
+    - ...
+    - hmmmm
+    - literature was always better when i was little
+    - i remember this book about...
+    - what was it...
+    - maye a ittle prince
+  - lines:
+    - literature?
+    - on this island?
+  - lines:
+    - ...
+    - uh...
+    - this is not literature sweetie
+  - lines:
+    - '?'
+    - how did you find this?
+    - i can't believe it still exist
+    - i suppose you have my graditue
+  dialogueText: {fileID: 1759950716}
+  dialogueBox: {fileID: 864998909}
+  currentLine: 0
+  dialogueActive: 0
+  currentCharacter: 0
+  lineType: 0
+  desire: {fileID: 455165567}
+  gift: {fileID: 0}
+  giveDesire: 0
+  outline: {fileID: 405119596}
+  item: {fileID: 274609964}
+  holding: {fileID: 126545290}
+  playerItems: {fileID: 0}
+  textSpeed: 0.1
+  itemRange: 17.2
+  playerhealth: {fileID: 0}
+  score: {fileID: 0}
 --- !u!1 &759155601
 GameObject:
   m_ObjectHideFlags: 0
@@ -8616,6 +8704,11 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!1 &864998909 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3111520319145979877, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+  m_PrefabInstance: {fileID: 1341155836}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &895892143
 GameObject:
   m_ObjectHideFlags: 0
@@ -15205,7 +15298,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1003, y: 372}
+  m_AnchoredPosition: {x: -370, y: -169}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &947043471
@@ -15509,11 +15602,11 @@ PrefabInstance:
       objectReference: {fileID: -424102068325738599, guid: 6703264e9f1da40e2b5e186c219fe09e, type: 3}
     - target: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.5148
+      value: -2.45
       objectReference: {fileID: 0}
     - target: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.54
+      value: -6.21
       objectReference: {fileID: 0}
     - target: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -21069,9 +21162,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2829710811712668901, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+      propertyPath: m_Name
+      value: Ghost 1 Text
+      objectReference: {fileID: 0}
     - target: {fileID: 3111520319145979877, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
       propertyPath: m_Name
-      value: Dialouge Ghost
+      value: Dialouge Ghost 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21859,6 +21956,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 688588607eee749bf89d1c526b2e7eeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collect
+--- !u!114 &1759950716 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7742967173874655829, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+  m_PrefabInstance: {fileID: 1341155836}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1763553910
 GameObject:
   m_ObjectHideFlags: 0
@@ -57456,6 +57564,7 @@ GameObject:
   - component: {fileID: 1876093238}
   - component: {fileID: 1876093237}
   - component: {fileID: 1876093239}
+  - component: {fileID: 1876093240}
   m_Layer: 0
   m_Name: Ghost 2
   m_TagString: NPC
@@ -57575,14 +57684,64 @@ MonoBehaviour:
   currentLine: 0
   dialogueActive: 0
   currentCharacter: 0
-  isPrinting: 0
   lineType: 0
   desire: {fileID: 933854753}
   gift: {fileID: 0}
   giveDesire: 0
-  outline: {fileID: 0}
-  item: {fileID: 0}
-  textSpeed: 1
+  outline: {fileID: 475033000}
+  item: {fileID: 556403474}
+  holding: {fileID: 0}
+  playerItems: {fileID: 0}
+  textSpeed: 0.075
+  itemRange: 1
+  playerhealth: {fileID: 0}
+  score: {fileID: 0}
+--- !u!61 &1876093240
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876093236}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 3.0644693, y: 1.4515915}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 4.1, y: 6.38}
+    newSize: {x: 4.1, y: 6.38}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 10.443991, y: 6.2724743}
+  m_EdgeRadius: 0
 --- !u!1 &1900301052
 GameObject:
   m_ObjectHideFlags: 0
@@ -62762,14 +62921,18 @@ MonoBehaviour:
   currentLine: 0
   dialogueActive: 0
   currentCharacter: 0
-  isPrinting: 0
   lineType: 0
   desire: {fileID: 0}
   gift: {fileID: 0}
   giveDesire: 0
-  outline: {fileID: 0}
-  item: {fileID: 0}
-  textSpeed: 0.1
+  outline: {fileID: 677823977}
+  item: {fileID: 2010990740}
+  holding: {fileID: 0}
+  playerItems: {fileID: 0}
+  textSpeed: 0.05
+  itemRange: 1
+  playerhealth: {fileID: 0}
+  score: {fileID: 0}
 --- !u!1 &1949652328
 GameObject:
   m_ObjectHideFlags: 0
