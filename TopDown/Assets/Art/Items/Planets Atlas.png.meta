@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 521cbdc4fb9124cebb60a9d12150cccb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8731923770884498474
+    second: Planets Atlas_0
+  - first:
+      213: -2741290804965406791
+    second: Planets Atlas_1
+  - first:
+      213: -5038794299405232645
+    second: Planets Atlas_2
+  - first:
+      213: 2597144967021950068
+    second: Planets Atlas_3
+  - first:
+      213: 7490242826357510160
+    second: Planets Atlas_4
+  - first:
+      213: 6554476729778740137
+    second: Planets Atlas_5
+  - first:
+      213: 2468043665164549956
+    second: Planets Atlas_6
+  - first:
+      213: 5319402577144635175
+    second: Planets Atlas_7
+  - first:
+      213: 8454375825739857118
+    second: Planets Atlas_8
+  - first:
+      213: -2963638077890624250
+    second: Planets Atlas_9
+  - first:
+      213: 512959787947936230
+    second: Planets Atlas_10
+  - first:
+      213: -2538578306745159830
+    second: Planets Atlas_11
+  - first:
+      213: -3004402394019396093
+    second: Planets Atlas_12
+  - first:
+      213: 8505826763343523028
+    second: Planets Atlas_13
+  - first:
+      213: -1178961543211563080
+    second: Planets Atlas_14
+  - first:
+      213: 2888816792162118344
+    second: Planets Atlas_15
+  - first:
+      213: 3209297324165758493
+    second: Planets Atlas_16
+  - first:
+      213: 2982806704387178353
+    second: Planets Atlas_17
+  - first:
+      213: -4485372336351737302
+    second: Planets Atlas_18
+  - first:
+      213: -3206913654287727982
+    second: Planets Atlas_19
+  - first:
+      213: 220077972018773579
+    second: Planets Atlas_20
+  - first:
+      213: 186179270236426411
+    second: Planets Atlas_21
+  - first:
+      213: -1716872565224108476
+    second: Planets Atlas_22
+  - first:
+      213: 8688702542819417968
+    second: Planets Atlas_23
+  - first:
+      213: 3559282161059300718
+    second: Planets Atlas_24
+  - first:
+      213: -4216557004104366150
+    second: Planets Atlas_25
+  - first:
+      213: 4454939468999876701
+    second: Planets Atlas_26
+  - first:
+      213: -5304737846298379046
+    second: Planets Atlas_27
+  - first:
+      213: 5914681148164170853
+    second: Planets Atlas_28
+  - first:
+      213: -3306949666740538068
+    second: Planets Atlas_29
+  - first:
+      213: -5697957552232240272
+    second: Planets Atlas_30
+  - first:
+      213: -5862504956154365126
+    second: Planets Atlas_31
+  - first:
+      213: -451487094324022718
+    second: Planets Atlas_32
+  - first:
+      213: -3519179922684304470
+    second: Planets Atlas_33
+  - first:
+      213: 229565564470481367
+    second: Planets Atlas_34
+  - first:
+      213: -4978926805159779918
+    second: Planets Atlas_35
+  - first:
+      213: -7420147979880560514
+    second: Planets Atlas_36
+  - first:
+      213: -1526264382376484003
+    second: Planets Atlas_37
+  - first:
+      213: 2135605675905298718
+    second: Planets Atlas_38
+  - first:
+      213: 153894467930415591
+    second: Planets Atlas_39
+  - first:
+      213: 1821776269203942228
+    second: Planets Atlas_40
+  - first:
+      213: 5496808861675997337
+    second: Planets Atlas_41
+  - first:
+      213: 5502554430047916099
+    second: Planets Atlas_42
+  - first:
+      213: -3852872014502226882
+    second: Planets Atlas_43
+  - first:
+      213: 7250030589408556212
+    second: Planets Atlas_44
+  - first:
+      213: 8035203402108647965
+    second: Planets Atlas_45
+  - first:
+      213: 7705904974545179386
+    second: Planets Atlas_46
+  - first:
+      213: -2233056906061401399
+    second: Planets Atlas_47
+  - first:
+      213: -8782317585390136823
+    second: Planets Atlas_48
+  - first:
+      213: -3424076167132747919
+    second: Planets Atlas_49
+  - first:
+      213: -3425541114980431937
+    second: Planets Atlas_50
+  - first:
+      213: -918555972415492845
+    second: Planets Atlas_51
+  - first:
+      213: 8955994095804780564
+    second: Planets Atlas_52
+  - first:
+      213: -713598622438822192
+    second: Planets Atlas_53
+  - first:
+      213: -88554319355498325
+    second: Planets Atlas_54
+  - first:
+      213: 1685566330977164618
+    second: Planets Atlas_55
+  - first:
+      213: 5267327819239594445
+    second: Planets Atlas_56
+  - first:
+      213: -8351823051951502058
+    second: Planets Atlas_57
+  - first:
+      213: -459479920266457879
+    second: Planets Atlas_58
+  - first:
+      213: 1440062106098352541
+    second: Planets Atlas_59
+  - first:
+      213: 6522371130310734571
+    second: Planets Atlas_60
+  - first:
+      213: 773097714980982884
+    second: Planets Atlas_61
+  - first:
+      213: -1762503174937825565
+    second: Planets Atlas_62
+  - first:
+      213: 2087758336489052420
+    second: Planets Atlas_63
+  - first:
+      213: -4739832678772851123
+    second: Planets Atlas_64
+  - first:
+      213: -5939269241166435738
+    second: Planets Atlas_65
+  - first:
+      213: -6529729755859014317
+    second: Planets Atlas_66
+  - first:
+      213: 7633186225300844899
+    second: Planets Atlas_67
+  - first:
+      213: 8834086614039091136
+    second: Planets Atlas_68
+  - first:
+      213: 5745972166026106301
+    second: Planets Atlas_69
+  - first:
+      213: -8971518895750559083
+    second: Planets Atlas_70
+  - first:
+      213: -4423199535151593937
+    second: Planets Atlas_71
+  - first:
+      213: 6411049354331876182
+    second: Planets Atlas_72
+  - first:
+      213: 1593816782192477417
+    second: Planets Atlas_73
+  - first:
+      213: -7549700918266391246
+    second: Planets Atlas_74
+  - first:
+      213: -2011183866259039044
+    second: Planets Atlas_75
+  - first:
+      213: -3678644493320196151
+    second: Planets Atlas_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planets Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1574
+        width: 421
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd3a61899f1d680800000000000000
+      internalID: -8731923770884498474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1614
+        width: 438
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70eff698af4f9d0800000000000000
+      internalID: -2741290804965406791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1605
+        width: 410
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf510b7084b921ab0800000000000000
+      internalID: -5038794299405232645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1357
+        width: 165
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47479855699ea0420800000000000000
+      internalID: 2597144967021950068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1450
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01015726a20b2f760800000000000000
+      internalID: 7490242826357510160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1147
+        width: 212
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab960fcbdd26fa50800000000000000
+      internalID: 6554476729778740137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1363
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f394023a0404220800000000000000
+      internalID: 2468043665164549956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1075
+        width: 188
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd004e57052d940800000000000000
+      internalID: 5319402577144635175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1096
+        width: 217
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbfd2350af35570800000000000000
+      internalID: 8454375825739857118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1270
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6050284ceda0fd6d0800000000000000
+      internalID: -2963638077890624250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1096
+        width: 193
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e942b895366e1700800000000000000
+      internalID: 512959787947936230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1276
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f21ffda7825ccd0800000000000000
+      internalID: -2538578306745159830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1156
+        width: 185
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306042ec0f73e46d0800000000000000
+      internalID: -3004402394019396093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1282
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce91e1064ca0670800000000000000
+      internalID: 8505826763343523028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7470d09bc73afe0800000000000000
+      internalID: -1178961543211563080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caa10e1193271820800000000000000
+      internalID: 2888816792162118344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1245
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef289a9e6b98c20800000000000000
+      internalID: 3209297324165758493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb6a0e4ee056920800000000000000
+      internalID: 2982806704387178353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a0466ef91c0c1c0800000000000000
+      internalID: -4485372336351737302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1192
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29284dab501ce73d0800000000000000
+      internalID: -3206913654287727982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 953
+        width: 244
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e3111efbfdd0300800000000000000
+      internalID: 220077972018773579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1181
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0dbf25f01759200800000000000000
+      internalID: 186179270236426411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e04319f717c28e0800000000000000
+      internalID: -1716872565224108476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd8cf8de8749870800000000000000
+      internalID: 8688702542819417968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1106
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e650351844c156130800000000000000
+      internalID: 3559282161059300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 933
+        width: 210
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab78c2bbeb7cb75c0800000000000000
+      internalID: -4216557004104366150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 913
+        width: 237
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ea9108df13dd30800000000000000
+      internalID: 4454939468999876701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 875
+        width: 210
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc70d4d809c166b0800000000000000
+      internalID: -5304737846298379046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1088
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564660cba2b251250800000000000000
+      internalID: 5914681148164170853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 973
+        width: 85
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2575df8cca5b12d0800000000000000
+      internalID: -3306949666740538068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1028
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b61f99bc9cce0b0800000000000000
+      internalID: -5697957552232240272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1035
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb372adc234aea0800000000000000
+      internalID: -5862504956154365126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1002
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242b42a31eefbb9f0800000000000000
+      internalID: -451487094324022718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1024
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa327b7718c592fc0800000000000000
+      internalID: -3519179922684304470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 847
+        width: 191
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1dce22aa49f2300800000000000000
+      internalID: 229565564470481367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 691
+        width: 237
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1e7cf337c47eab0800000000000000
+      internalID: -4978926805159779918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 922
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e780366d9b6560990800000000000000
+      internalID: -7420147979880560514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 931
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536e1771ae91dae0800000000000000
+      internalID: -1526264382376484003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 925
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11b4ac1c0233ad10800000000000000
+      internalID: 2135605675905298718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 649
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e3e5043eb22200800000000000000
+      internalID: 153894467930415591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 882
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b232a5ddf384910800000000000000
+      internalID: 1821776269203942228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 599
+        width: 281
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998ca6e4986984c40800000000000000
+      internalID: 5496808861675997337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 860
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3401240b9100d5c40800000000000000
+      internalID: 5502554430047916099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 856
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341d82f059d78ac0800000000000000
+      internalID: -3852872014502226882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 829
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b964a8684d9460800000000000000
+      internalID: 7250030589408556212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 835
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a32b00ce6c28f60800000000000000
+      internalID: 8035203402108647965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 600
+        width: 232
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25ea82fbfd0fa60800000000000000
+      internalID: 7705904974545179386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 805
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c23afe33969201e0800000000000000
+      internalID: -2233056906061401399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 586
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029722dfa0fe1680800000000000000
+      internalID: -8782317585390136823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 783
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177eb261edc3b70d0800000000000000
+      internalID: -3424076167132747919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 765
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7881651880670d0800000000000000
+      internalID: -3425541114980431937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 747
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d6cd5b532a043f0800000000000000
+      internalID: -918555972415492845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 699
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41090f2ed251a4c70800000000000000
+      internalID: 8955994095804780564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 699
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de635d65d9c816f0800000000000000
+      internalID: -713598622438822192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 701
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba03d73d05465cef0800000000000000
+      internalID: -88554319355498325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 702
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9043c5a5546710800000000000000
+      internalID: 1685566330977164618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 641
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc91f4d7ebe491940800000000000000
+      internalID: 5267327819239594445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 634
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d03812f2d581c80800000000000000
+      internalID: -8351823051951502058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 630
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecc71b62799f99f0800000000000000
+      internalID: -459479920266457879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 647
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d914e701bd02cf310800000000000000
+      internalID: 1440062106098352541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be23f6b6cfd148a50800000000000000
+      internalID: 6522371130310734571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 641
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4609b1696489aba00800000000000000
+      internalID: 773097714980982884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 446
+        width: 210
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee255653b45a87e0800000000000000
+      internalID: -1762503174937825565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 426
+        width: 212
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4095a47452539fc10800000000000000
+      internalID: 2087758336489052420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 638
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb4f69a4bb83eb0800000000000000
+      internalID: -4739832678772851123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 612
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aeedeb71a739da0800000000000000
+      internalID: -5939269241166435738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 620
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35da9be026db165a0800000000000000
+      internalID: -6529729755859014317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 615
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613677fd668ee960800000000000000
+      internalID: 7633186225300844899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 621
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c755d078faf89a70800000000000000
+      internalID: 8834086614039091136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 616
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db59445dd3bcdbf40800000000000000
+      internalID: 5745972166026106301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 465
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a4513f813ce7380800000000000000
+      internalID: -8971518895750559083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 597
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26cd983573ad92c0800000000000000
+      internalID: -4423199535151593937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 602
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65be27aab6f98f850800000000000000
+      internalID: 6411049354331876182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 597
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e483a34bef5e1610800000000000000
+      internalID: 1593816782192477417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 452
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359a4ec3031a3790800000000000000
+      internalID: -7549700918266391246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 432
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc12a9ede6d614e0800000000000000
+      internalID: -2011183866259039044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planets Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfe3b8d254d2fcc0800000000000000
+      internalID: -3678644493320196151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Planets Atlas_0: -8731923770884498474
+      Planets Atlas_1: -2741290804965406791
+      Planets Atlas_10: 512959787947936230
+      Planets Atlas_11: -2538578306745159830
+      Planets Atlas_12: -3004402394019396093
+      Planets Atlas_13: 8505826763343523028
+      Planets Atlas_14: -1178961543211563080
+      Planets Atlas_15: 2888816792162118344
+      Planets Atlas_16: 3209297324165758493
+      Planets Atlas_17: 2982806704387178353
+      Planets Atlas_18: -4485372336351737302
+      Planets Atlas_19: -3206913654287727982
+      Planets Atlas_2: -5038794299405232645
+      Planets Atlas_20: 220077972018773579
+      Planets Atlas_21: 186179270236426411
+      Planets Atlas_22: -1716872565224108476
+      Planets Atlas_23: 8688702542819417968
+      Planets Atlas_24: 3559282161059300718
+      Planets Atlas_25: -4216557004104366150
+      Planets Atlas_26: 4454939468999876701
+      Planets Atlas_27: -5304737846298379046
+      Planets Atlas_28: 5914681148164170853
+      Planets Atlas_29: -3306949666740538068
+      Planets Atlas_3: 2597144967021950068
+      Planets Atlas_30: -5697957552232240272
+      Planets Atlas_31: -5862504956154365126
+      Planets Atlas_32: -451487094324022718
+      Planets Atlas_33: -3519179922684304470
+      Planets Atlas_34: 229565564470481367
+      Planets Atlas_35: -4978926805159779918
+      Planets Atlas_36: -7420147979880560514
+      Planets Atlas_37: -1526264382376484003
+      Planets Atlas_38: 2135605675905298718
+      Planets Atlas_39: 153894467930415591
+      Planets Atlas_4: 7490242826357510160
+      Planets Atlas_40: 1821776269203942228
+      Planets Atlas_41: 5496808861675997337
+      Planets Atlas_42: 5502554430047916099
+      Planets Atlas_43: -3852872014502226882
+      Planets Atlas_44: 7250030589408556212
+      Planets Atlas_45: 8035203402108647965
+      Planets Atlas_46: 7705904974545179386
+      Planets Atlas_47: -2233056906061401399
+      Planets Atlas_48: -8782317585390136823
+      Planets Atlas_49: -3424076167132747919
+      Planets Atlas_5: 6554476729778740137
+      Planets Atlas_50: -3425541114980431937
+      Planets Atlas_51: -918555972415492845
+      Planets Atlas_52: 8955994095804780564
+      Planets Atlas_53: -713598622438822192
+      Planets Atlas_54: -88554319355498325
+      Planets Atlas_55: 1685566330977164618
+      Planets Atlas_56: 5267327819239594445
+      Planets Atlas_57: -8351823051951502058
+      Planets Atlas_58: -459479920266457879
+      Planets Atlas_59: 1440062106098352541
+      Planets Atlas_6: 2468043665164549956
+      Planets Atlas_60: 6522371130310734571
+      Planets Atlas_61: 773097714980982884
+      Planets Atlas_62: -1762503174937825565
+      Planets Atlas_63: 2087758336489052420
+      Planets Atlas_64: -4739832678772851123
+      Planets Atlas_65: -5939269241166435738
+      Planets Atlas_66: -6529729755859014317
+      Planets Atlas_67: 7633186225300844899
+      Planets Atlas_68: 8834086614039091136
+      Planets Atlas_69: 5745972166026106301
+      Planets Atlas_7: 5319402577144635175
+      Planets Atlas_70: -8971518895750559083
+      Planets Atlas_71: -4423199535151593937
+      Planets Atlas_72: 6411049354331876182
+      Planets Atlas_73: 1593816782192477417
+      Planets Atlas_74: -7549700918266391246
+      Planets Atlas_75: -2011183866259039044
+      Planets Atlas_76: -3678644493320196151
+      Planets Atlas_8: 8454375825739857118
+      Planets Atlas_9: -2963638077890624250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

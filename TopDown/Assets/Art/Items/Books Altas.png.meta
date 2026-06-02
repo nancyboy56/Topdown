@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: ca04def8595a043ca9311b06a9e51df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -621514990835430828
+    second: Books Altas_0
+  - first:
+      213: 7559305275786210638
+    second: Books Altas_1
+  - first:
+      213: 7681585695559780378
+    second: Books Altas_2
+  - first:
+      213: 7353586087013271213
+    second: Books Altas_3
+  - first:
+      213: 7956493630913323061
+    second: Books Altas_4
+  - first:
+      213: -7269051190700926969
+    second: Books Altas_5
+  - first:
+      213: 1712772760327597502
+    second: Books Altas_6
+  - first:
+      213: 3598634783187039449
+    second: Books Altas_7
+  - first:
+      213: -5073320303852013781
+    second: Books Altas_8
+  - first:
+      213: -2670753125049333157
+    second: Books Altas_9
+  - first:
+      213: -4996644837372242884
+    second: Books Altas_10
+  - first:
+      213: -3541968218930166671
+    second: Books Altas_11
+  - first:
+      213: -262247660458163989
+    second: Books Altas_12
+  - first:
+      213: 8359661625715928887
+    second: Books Altas_13
+  - first:
+      213: 3431757419697654904
+    second: Books Altas_14
+  - first:
+      213: -7613769779239458255
+    second: Books Altas_15
+  - first:
+      213: 7450743212514964578
+    second: Books Altas_16
+  - first:
+      213: -3952691788142907409
+    second: Books Altas_17
+  - first:
+      213: -2050720234441586854
+    second: Books Altas_18
+  - first:
+      213: 8739882397671275979
+    second: Books Altas_19
+  - first:
+      213: -2590157496109997640
+    second: Books Altas_20
+  - first:
+      213: -6554763617050104770
+    second: Books Altas_21
+  - first:
+      213: -3555701533835471342
+    second: Books Altas_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Books Altas_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1716
+        width: 444
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a8ca4a86fef57f0800000000000000
+      internalID: -621514990835430828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1650
+        width: 481
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d29ffe81c08e860800000000000000
+      internalID: 7559305275786210638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_2
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1674
+        width: 464
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a180097cd797a9a60800000000000000
+      internalID: 7681585695559780378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_3
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1690
+        width: 12
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da64eadc59f2d0660800000000000000
+      internalID: 7353586087013271213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_4
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1665
+        width: 490
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302f305dc42b6e60800000000000000
+      internalID: 7956493630913323061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1599
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708142484742f1b90800000000000000
+      internalID: -7269051190700926969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1644
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdaa4830cdf4c710800000000000000
+      internalID: 1712772760327597502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1599
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d47a38d44be0f130800000000000000
+      internalID: 3598634783187039449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_8
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1599
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27bf113012f799b0800000000000000
+      internalID: -5073320303852013781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 901
+        width: 488
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a8baade249fead0800000000000000
+      internalID: -2670753125049333157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 866
+        width: 516
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3453a76ef958aab0800000000000000
+      internalID: -4996644837372242884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_11
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1533
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174c1f8cba668dec0800000000000000
+      internalID: -3541968218930166671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_12
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 880
+        width: 482
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0c63b642f4c5cf0800000000000000
+      internalID: -262247660458163989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_13
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 898
+        width: 572
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f234b05fb730470800000000000000
+      internalID: 8359661625715928887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_14
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1395
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc364e03d00af20800000000000000
+      internalID: 3431757419697654904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 97
+        width: 492
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae3daa9b4765690800000000000000
+      internalID: -7613769779239458255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 105
+        width: 473
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647b9ed97b566760800000000000000
+      internalID: 7450743212514964578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_17
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 132
+        width: 411
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef632dc2c73529c0800000000000000
+      internalID: -3952691788142907409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_18
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 150
+        width: 672
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57476cdfc06a83e0800000000000000
+      internalID: -2050720234441586854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_19
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 661
+        width: 8
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb2eb1cbc4a4970800000000000000
+      internalID: 8739882397671275979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 8
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16c040b79ed0cd0800000000000000
+      internalID: -2590157496109997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 5
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce21b083dc805a0800000000000000
+      internalID: -6554763617050104770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books Altas_22
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 369
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216dc6c3b4c97aec0800000000000000
+      internalID: -3555701533835471342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Books Altas_0: -621514990835430828
+      Books Altas_1: 7559305275786210638
+      Books Altas_10: -4996644837372242884
+      Books Altas_11: -3541968218930166671
+      Books Altas_12: -262247660458163989
+      Books Altas_13: 8359661625715928887
+      Books Altas_14: 3431757419697654904
+      Books Altas_15: -7613769779239458255
+      Books Altas_16: 7450743212514964578
+      Books Altas_17: -3952691788142907409
+      Books Altas_18: -2050720234441586854
+      Books Altas_19: 8739882397671275979
+      Books Altas_2: 7681585695559780378
+      Books Altas_20: -2590157496109997640
+      Books Altas_21: -6554763617050104770
+      Books Altas_22: -3555701533835471342
+      Books Altas_3: 7353586087013271213
+      Books Altas_4: 7956493630913323061
+      Books Altas_5: -7269051190700926969
+      Books Altas_6: 1712772760327597502
+      Books Altas_7: 3598634783187039449
+      Books Altas_8: -5073320303852013781
+      Books Altas_9: -2670753125049333157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

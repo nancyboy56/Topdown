@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 87b84304eab224555b2a57e539a45289
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4289433529977965994
+    second: Plant Altas_0
+  - first:
+      213: 7660768971326541336
+    second: Plant Altas_1
+  - first:
+      213: -6727910038134454306
+    second: Plant Altas_2
+  - first:
+      213: -8142133479349786519
+    second: Plant Altas_3
+  - first:
+      213: -9116892333717992886
+    second: Plant Altas_4
+  - first:
+      213: -8512533269716349569
+    second: Plant Altas_5
+  - first:
+      213: 2851237124484456600
+    second: Plant Altas_6
+  - first:
+      213: -4644969600121534981
+    second: Plant Altas_7
+  - first:
+      213: -5895497366012986640
+    second: Plant Altas_8
+  - first:
+      213: -4907165837337715082
+    second: Plant Altas_9
+  - first:
+      213: 499583471096515779
+    second: Plant Altas_10
+  - first:
+      213: -5047501288267778199
+    second: Plant Altas_11
+  - first:
+      213: -742888913159316356
+    second: Plant Altas_12
+  - first:
+      213: 2074610491772945293
+    second: Plant Altas_13
+  - first:
+      213: 2656240015925299599
+    second: Plant Altas_14
+  - first:
+      213: 3622785583220194950
+    second: Plant Altas_15
+  - first:
+      213: -1919817118109563605
+    second: Plant Altas_16
+  - first:
+      213: 3900466698240556144
+    second: Plant Altas_17
+  - first:
+      213: -8879664138728652329
+    second: Plant Altas_18
+  - first:
+      213: -7597151553570378312
+    second: Plant Altas_19
+  - first:
+      213: -4388308699907945941
+    second: Plant Altas_20
+  - first:
+      213: 5576806838404485833
+    second: Plant Altas_21
+  - first:
+      213: 7383724502934205289
+    second: Plant Altas_22
+  - first:
+      213: -1164425872099013153
+    second: Plant Altas_23
+  - first:
+      213: 1639972668183537531
+    second: Plant Altas_24
+  - first:
+      213: 2872199013635362629
+    second: Plant Altas_25
+  - first:
+      213: -4252581948059311996
+    second: Plant Altas_26
+  - first:
+      213: -1744965669015402996
+    second: Plant Altas_27
+  - first:
+      213: -3908841485334174244
+    second: Plant Altas_28
+  - first:
+      213: 9087415316037471403
+    second: Plant Altas_29
+  - first:
+      213: -4599333856229551655
+    second: Plant Altas_30
+  - first:
+      213: 9114105140518922805
+    second: Plant Altas_31
+  - first:
+      213: -6172055026792725460
+    second: Plant Altas_32
+  - first:
+      213: -8515199762755099145
+    second: Plant Altas_33
+  - first:
+      213: -3911488495346375242
+    second: Plant Altas_34
+  - first:
+      213: 8795190211400790968
+    second: Plant Altas_35
+  - first:
+      213: 5522169196688493202
+    second: Plant Altas_36
+  - first:
+      213: 5984837031066267336
+    second: Plant Altas_37
+  - first:
+      213: -5054693706428630216
+    second: Plant Altas_38
+  - first:
+      213: -4355917523112113722
+    second: Plant Altas_39
+  - first:
+      213: 2424580382769844509
+    second: Plant Altas_40
+  - first:
+      213: 3946759096091980836
+    second: Plant Altas_41
+  - first:
+      213: 2248634142232898466
+    second: Plant Altas_42
+  - first:
+      213: -1257066474030117262
+    second: Plant Altas_43
+  - first:
+      213: 6911090069296865676
+    second: Plant Altas_44
+  - first:
+      213: 1078292394048612036
+    second: Plant Altas_45
+  - first:
+      213: -4063639525718965727
+    second: Plant Altas_46
+  - first:
+      213: 6979887777716760613
+    second: Plant Altas_47
+  - first:
+      213: 6146360511055941027
+    second: Plant Altas_48
+  - first:
+      213: -2142101222296108581
+    second: Plant Altas_49
+  - first:
+      213: 8259963231176211332
+    second: Plant Altas_50
+  - first:
+      213: -3231496983241900524
+    second: Plant Altas_51
+  - first:
+      213: 155538601152464842
+    second: Plant Altas_52
+  - first:
+      213: 7081800726653998999
+    second: Plant Altas_53
+  - first:
+      213: -7753600269646243997
+    second: Plant Altas_54
+  - first:
+      213: 3098059780821985334
+    second: Plant Altas_55
+  - first:
+      213: 6186574912146582415
+    second: Plant Altas_56
+  - first:
+      213: 4674478375978851139
+    second: Plant Altas_57
+  - first:
+      213: -6384538151654136000
+    second: Plant Altas_58
+  - first:
+      213: -17030134712735641
+    second: Plant Altas_59
+  - first:
+      213: -6812549169491402418
+    second: Plant Altas_60
+  - first:
+      213: 7056626653652366853
+    second: Plant Altas_61
+  - first:
+      213: -6083452179657586056
+    second: Plant Altas_62
+  - first:
+      213: 3180327276513540592
+    second: Plant Altas_63
+  - first:
+      213: 2350416326987407218
+    second: Plant Altas_64
+  - first:
+      213: -4319048813082555684
+    second: Plant Altas_65
+  - first:
+      213: -2644426709326854739
+    second: Plant Altas_66
+  - first:
+      213: 6535950285713483685
+    second: Plant Altas_67
+  - first:
+      213: -4287271016053217243
+    second: Plant Altas_68
+  - first:
+      213: 9177740817500518747
+    second: Plant Altas_69
+  - first:
+      213: -128998539948946295
+    second: Plant Altas_70
+  - first:
+      213: 3291766569464168239
+    second: Plant Altas_71
+  - first:
+      213: 8973398266738557840
+    second: Plant Altas_72
+  - first:
+      213: -3188352327652574146
+    second: Plant Altas_73
+  - first:
+      213: 4154720004117818406
+    second: Plant Altas_74
+  - first:
+      213: -4170825706025730740
+    second: Plant Altas_75
+  - first:
+      213: -2028809292274682218
+    second: Plant Altas_76
+  - first:
+      213: 7366960595924579190
+    second: Plant Altas_77
+  - first:
+      213: -6220872978211851512
+    second: Plant Altas_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plant Altas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1597
+        width: 2547
+        height: 2003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8cf1b111278b30800000000000000
+      internalID: 4289433529977965994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_1
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 2988
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ec04a7ac4805a60800000000000000
+      internalID: 7660768971326541336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_2
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2664
+        width: 981
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed706306779a1a2a0800000000000000
+      internalID: -6727910038134454306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2848
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9686a894db4510f80800000000000000
+      internalID: -8142133479349786519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_4
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1571
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ac141d9ba4a7180800000000000000
+      internalID: -9116892333717992886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_5
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1212
+        width: 1016
+        height: 1354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dccdfa7186dd980800000000000000
+      internalID: -8512533269716349569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_6
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1603
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906d47ee01a19720800000000000000
+      internalID: 2851237124484456600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_7
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 1594
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5844042c0c98fb0800000000000000
+      internalID: -4644969600121534981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_8
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 1598
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7b8c916cfe2ea0800000000000000
+      internalID: -5895497366012986640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1571
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9d839bae36ebb0800000000000000
+      internalID: -4907165837337715082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_10
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 1589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc4d522580eee600800000000000000
+      internalID: 499583471096515779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_11
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1553
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967f875325ca3f9b0800000000000000
+      internalID: -5047501288267778199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_12
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1564
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c109f287ab0b5f0800000000000000
+      internalID: -742888913159316356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 608
+        width: 2180
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83cc61204f7acc10800000000000000
+      internalID: 2074610491772945293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_14
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 1186
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c76b983cdcd420800000000000000
+      internalID: 2656240015925299599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_15
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1186
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68efe392b48b64230800000000000000
+      internalID: 3622785583220194950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_16
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1179
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258d51b0807b55e0800000000000000
+      internalID: -1919817118109563605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_17
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c7ed6ebcd312630800000000000000
+      internalID: 3900466698240556144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_18
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 1130
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1cd46238815c480800000000000000
+      internalID: -8879664138728652329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_19
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd61a8d9ee719690800000000000000
+      internalID: -7597151553570378312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_20
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0b39dc789913c0800000000000000
+      internalID: -4388308699907945941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_21
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1145
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c29118b54cc46d40800000000000000
+      internalID: 5576806838404485833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_22
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1142
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963bdb49052487660800000000000000
+      internalID: 7383724502934205289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_23
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1137
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8346b6d027dfe0800000000000000
+      internalID: -1164425872099013153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_24
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1127
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ed68e37a52c610800000000000000
+      internalID: 1639972668183537531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_25
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 1118
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f86fb09c91cd720800000000000000
+      internalID: 2872199013635362629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_26
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1117
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480afa7df3bcbf4c0800000000000000
+      internalID: -4252581948059311996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_27
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 1121
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06c51128f2a8c7e0800000000000000
+      internalID: -1744965669015402996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_28
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5a857016101c9c0800000000000000
+      internalID: -3908841485334174244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_29
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac8bde251cfc1e70800000000000000
+      internalID: 9087415316037471403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_30
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 1116
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19200e932eb20c0800000000000000
+      internalID: -4599333856229551655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_31
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1122
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a2132365ecb7e70800000000000000
+      internalID: 9114105140518922805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_32
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c240bd177a4785aa0800000000000000
+      internalID: -6172055026792725460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_33
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 10
+        width: 1374
+        height: 1117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ed756eeee3d980800000000000000
+      internalID: -8515199762755099145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_34
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1116
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b52adbffe997b9c0800000000000000
+      internalID: -3911488495346375242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 302
+        width: 462
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3798af5eace0a70800000000000000
+      internalID: 8795190211400790968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 316
+        width: 1103
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac83e60afa2ac40800000000000000
+      internalID: 5522169196688493202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceee4b12996e0350800000000000000
+      internalID: 5984837031066267336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 116
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3bebdade1ad9b0800000000000000
+      internalID: -5054693706428630216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 570
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9c004671cac83c0800000000000000
+      internalID: -4355917523112113722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11906c1307d5a120800000000000000
+      internalID: 2424580382769844509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_41
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 458
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424ba90bc74b5c630800000000000000
+      internalID: 3946759096091980836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_42
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 437
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab6b9da6d0c43f10800000000000000
+      internalID: 2248634142232898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec16cb3b00e8ee0800000000000000
+      internalID: -1257066474030117262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 406
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c816b2f2dcf19ef50800000000000000
+      internalID: 6911090069296865676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 413
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e547283dd6fe00800000000000000
+      internalID: 1078292394048612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 388
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122c846a16d0b97c0800000000000000
+      internalID: -4063639525718965727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 395
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520f5eae3fa8dd060800000000000000
+      internalID: 6979887777716760613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 387
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4afae1524c4550800000000000000
+      internalID: 6146360511055941027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd14c14a94ab542e0800000000000000
+      internalID: -2142101222296108581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 373
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bbb0cabc841a270800000000000000
+      internalID: 8259963231176211332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 366
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ebe1d6d9a6723d0800000000000000
+      internalID: -3231496983241900524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 367
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7cd8e9885982200800000000000000
+      internalID: 155538601152464842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 354
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797905a6d3c974260800000000000000
+      internalID: 7081800726653998999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 335
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367dc5592ada56490800000000000000
+      internalID: -7753600269646243997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_55
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 355
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638a1d8d4f48efa20800000000000000
+      internalID: 3098059780821985334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 1549
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b27deca112bd550800000000000000
+      internalID: 6186574912146582415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 340
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bd67601551fd040800000000000000
+      internalID: 4674478375978851139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_58
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 320
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047e9b7b0609567a0800000000000000
+      internalID: -6384538151654136000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_59
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 332
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76868f5ce2f73cff0800000000000000
+      internalID: -17030134712735641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_60
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e412591ff96f471a0800000000000000
+      internalID: -6812549169491402418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_61
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 312
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b08bcd8c2ee160800000000000000
+      internalID: 7056626653652366853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0f6f597c339ba0800000000000000
+      internalID: -6083452179657586056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_63
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f93312decac22c20800000000000000
+      internalID: 3180327276513540592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_64
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 283
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fdc54423b5e9020800000000000000
+      internalID: 2350416326987407218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda44a0ecf7af04c0800000000000000
+      internalID: -4319048813082555684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 250
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5840c2beb1d4bd0800000000000000
+      internalID: -2644426709326854739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 256
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a099e72c54ba50800000000000000
+      internalID: 6535950285713483685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_68
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 192
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e150d9bd8084c0800000000000000
+      internalID: -4287271016053217243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 241
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b8b3d5a2ed5f70800000000000000
+      internalID: 9177740817500518747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_70
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 239
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c8cc9e284b53ef0800000000000000
+      internalID: -128998539948946295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_71
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 245
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ffa602144bead20800000000000000
+      internalID: 3291766569464168239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_72
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 219
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093ce053e2ae78c70800000000000000
+      internalID: 8973398266738557840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_73
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c7a7b5372b0c3d0800000000000000
+      internalID: -3188352327652574146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_74
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 175
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ce6a2c4d788a930800000000000000
+      internalID: 4154720004117818406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_75
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 184
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db44c4e104e16c0800000000000000
+      internalID: -4170825706025730740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_76
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 179
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b4f0a2b838d3e0800000000000000
+      internalID: -2028809292274682218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_77
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 181
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673726251a3bc3660800000000000000
+      internalID: 7366960595924579190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plant Altas_78
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 182
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8033bd46cf40ba9a0800000000000000
+      internalID: -6220872978211851512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plant Altas_0: 4289433529977965994
+      Plant Altas_1: 7660768971326541336
+      Plant Altas_10: 499583471096515779
+      Plant Altas_11: -5047501288267778199
+      Plant Altas_12: -742888913159316356
+      Plant Altas_13: 2074610491772945293
+      Plant Altas_14: 2656240015925299599
+      Plant Altas_15: 3622785583220194950
+      Plant Altas_16: -1919817118109563605
+      Plant Altas_17: 3900466698240556144
+      Plant Altas_18: -8879664138728652329
+      Plant Altas_19: -7597151553570378312
+      Plant Altas_2: -6727910038134454306
+      Plant Altas_20: -4388308699907945941
+      Plant Altas_21: 5576806838404485833
+      Plant Altas_22: 7383724502934205289
+      Plant Altas_23: -1164425872099013153
+      Plant Altas_24: 1639972668183537531
+      Plant Altas_25: 2872199013635362629
+      Plant Altas_26: -4252581948059311996
+      Plant Altas_27: -1744965669015402996
+      Plant Altas_28: -3908841485334174244
+      Plant Altas_29: 9087415316037471403
+      Plant Altas_3: -8142133479349786519
+      Plant Altas_30: -4599333856229551655
+      Plant Altas_31: 9114105140518922805
+      Plant Altas_32: -6172055026792725460
+      Plant Altas_33: -8515199762755099145
+      Plant Altas_34: -3911488495346375242
+      Plant Altas_35: 8795190211400790968
+      Plant Altas_36: 5522169196688493202
+      Plant Altas_37: 5984837031066267336
+      Plant Altas_38: -5054693706428630216
+      Plant Altas_39: -4355917523112113722
+      Plant Altas_4: -9116892333717992886
+      Plant Altas_40: 2424580382769844509
+      Plant Altas_41: 3946759096091980836
+      Plant Altas_42: 2248634142232898466
+      Plant Altas_43: -1257066474030117262
+      Plant Altas_44: 6911090069296865676
+      Plant Altas_45: 1078292394048612036
+      Plant Altas_46: -4063639525718965727
+      Plant Altas_47: 6979887777716760613
+      Plant Altas_48: 6146360511055941027
+      Plant Altas_49: -2142101222296108581
+      Plant Altas_5: -8512533269716349569
+      Plant Altas_50: 8259963231176211332
+      Plant Altas_51: -3231496983241900524
+      Plant Altas_52: 155538601152464842
+      Plant Altas_53: 7081800726653998999
+      Plant Altas_54: -7753600269646243997
+      Plant Altas_55: 3098059780821985334
+      Plant Altas_56: 6186574912146582415
+      Plant Altas_57: 4674478375978851139
+      Plant Altas_58: -6384538151654136000
+      Plant Altas_59: -17030134712735641
+      Plant Altas_6: 2851237124484456600
+      Plant Altas_60: -6812549169491402418
+      Plant Altas_61: 7056626653652366853
+      Plant Altas_62: -6083452179657586056
+      Plant Altas_63: 3180327276513540592
+      Plant Altas_64: 2350416326987407218
+      Plant Altas_65: -4319048813082555684
+      Plant Altas_66: -2644426709326854739
+      Plant Altas_67: 6535950285713483685
+      Plant Altas_68: -4287271016053217243
+      Plant Altas_69: 9177740817500518747
+      Plant Altas_7: -4644969600121534981
+      Plant Altas_70: -128998539948946295
+      Plant Altas_71: 3291766569464168239
+      Plant Altas_72: 8973398266738557840
+      Plant Altas_73: -3188352327652574146
+      Plant Altas_74: 4154720004117818406
+      Plant Altas_75: -4170825706025730740
+      Plant Altas_76: -2028809292274682218
+      Plant Altas_77: 7366960595924579190
+      Plant Altas_78: -6220872978211851512
+      Plant Altas_8: -5895497366012986640
+      Plant Altas_9: -4907165837337715082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
