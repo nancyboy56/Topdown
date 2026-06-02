@@ -8,6 +8,7 @@ TagManager:
   - SM
   - NS Bounds
   - Collect
+  - Item
   layers:
   - Default
   - TransparentFX
