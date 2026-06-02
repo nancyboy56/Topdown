@@ -9,6 +9,8 @@ TagManager:
   - NS Bounds
   - Collect
   - Item
+  - NPC
+  - Instructions
   layers:
   - Default
   - TransparentFX

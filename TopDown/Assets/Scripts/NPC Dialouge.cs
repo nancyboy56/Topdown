@@ -1,13 +1,16 @@
 using System;
 using System.Collections;
+
 using UnityEngine;
 using TMPro;
 using UnityEngine.InputSystem;
+using UnityEngine.Rendering;
 
 public class NPCDialouge : MonoBehaviour
 {
+    //cant seralise a dictionrary, or a 2d array
     [SerializeField]
-    private string[] dialogue;
+    private Dialouges[] dialogue;
     [SerializeField]
     private TextMeshProUGUI dialogueText;
     [SerializeField]
@@ -19,6 +22,7 @@ public class NPCDialouge : MonoBehaviour
     
     [SerializeField] private int currentCharacter = 0;
     [SerializeField] private bool isPrinting = false;
+    [SerializeField] private int lineType =0;
 
     [SerializeField, Range(0,2)] private float textSpeed = 1;
   
@@ -45,7 +49,7 @@ public class NPCDialouge : MonoBehaviour
         if (context.canceled && dialogueActive)
         {
             Debug.Log("printing.....]");
-            Debug.Log(dialogue[currentLine]);
+            Debug.Log(CallLine());
             NextLine();
         }
         else
@@ -54,14 +58,14 @@ public class NPCDialouge : MonoBehaviour
         }
     }
 
-    void StartDialogue()
+    void StartDialogue(int line)
     {
         Debug.Log("starting dialouge;");
         dialogueActive = true;
         dialogueBox.SetActive(true);
         currentLine = 0;
         currentCharacter = 0;
-        
+        lineType = line;
        // dialogueText.text = dialogue[currentLine];
        StartCoroutine(ShowText());
     }
@@ -72,8 +76,8 @@ public class NPCDialouge : MonoBehaviour
         while (dialogueActive)
         {
             isPrinting = true;
-            dialogueText.text = dialogue[currentLine].Substring(0, currentCharacter);
-            if (currentCharacter < dialogue[currentLine].Length)
+            dialogueText.text = CallLine().Substring(0, currentCharacter);
+            if (currentCharacter < CallLine().Length)
             {
                 currentCharacter++;
             }
@@ -85,9 +89,14 @@ public class NPCDialouge : MonoBehaviour
         
     }
 
+    private string CallLine()
+    {
+        return dialogue[lineType].lines[currentLine];
+    }
+
     void NextLine()
     {
-        if (currentLine < dialogue.Length-1)
+        if (currentLine < CallLine().Length-1)
         {
             currentLine++;
             currentCharacter = 0;
@@ -98,6 +107,11 @@ public class NPCDialouge : MonoBehaviour
             currentCharacter = 0;
         }
         
+        
+    }
+
+    public void GiveObject()
+    {
         
     }
 
@@ -112,7 +126,7 @@ public class NPCDialouge : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             
-            StartDialogue();
+            StartDialogue(0);
             
         }
     }
