@@ -57,6 +57,9 @@ TagManager:
   - name: Plant
     uniqueID: 1097113699
     locked: 0
+  - name: Items
+    uniqueID: 2807791143
+    locked: 0
   - name: Creature
     uniqueID: 3421530779
     locked: 0

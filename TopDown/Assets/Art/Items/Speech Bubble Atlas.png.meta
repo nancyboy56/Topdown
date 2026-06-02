@@ -1,76 +1,55 @@
 fileFormatVersion: 2
-guid: ca04def8595a043ca9311b06a9e51df2
+guid: 3e4c4d9e90267420499601b89c4f5f2e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -621514990835430828
-    second: Books Altas_0
+      213: -2071870886501320242
+    second: Speech Bubble Atlas_0
   - first:
-      213: 7559305275786210638
-    second: Books Altas_1
+      213: -1804944224461656897
+    second: Speech Bubble Atlas_1
   - first:
-      213: 7681585695559780378
-    second: Books Altas_2
+      213: 1358133922181425321
+    second: Speech Bubble Atlas_2
   - first:
-      213: 7353586087013271213
-    second: Books Altas_3
+      213: 1947719944115850005
+    second: Speech Bubble Atlas_3
   - first:
-      213: 7956493630913323061
-    second: Books Altas_4
+      213: -1613832082645908786
+    second: Speech Bubble Atlas_4
   - first:
-      213: -7269051190700926969
-    second: Books Altas_5
+      213: 4743648645282471985
+    second: Speech Bubble Atlas_5
   - first:
-      213: 1712772760327597502
-    second: Books Altas_6
+      213: -8689854415405591093
+    second: Speech Bubble Atlas_6
   - first:
-      213: 3598634783187039449
-    second: Books Altas_7
+      213: -8758751770437771271
+    second: Speech Bubble Atlas_7
   - first:
-      213: -5073320303852013781
-    second: Books Altas_8
+      213: 5656304059068648821
+    second: Speech Bubble Atlas_8
   - first:
-      213: -2670753125049333157
-    second: Books Altas_9
+      213: -3117153298205622882
+    second: Speech Bubble Atlas_9
   - first:
-      213: -4996644837372242884
-    second: Books Altas_10
+      213: 8852018817418973856
+    second: Speech Bubble Atlas_10
   - first:
-      213: -3541968218930166671
-    second: Books Altas_11
+      213: 3696758198219518604
+    second: Speech Bubble Atlas_11
   - first:
-      213: -262247660458163989
-    second: Books Altas_12
+      213: -210602624426471230
+    second: Speech Bubble Atlas_12
   - first:
-      213: 8359661625715928887
-    second: Books Altas_13
+      213: -1070916802979981129
+    second: Speech Bubble Atlas_13
   - first:
-      213: 3431757419697654904
-    second: Books Altas_14
+      213: 625144270639727157
+    second: Speech Bubble Atlas_14
   - first:
-      213: -7613769779239458255
-    second: Books Altas_15
-  - first:
-      213: 7450743212514964578
-    second: Books Altas_16
-  - first:
-      213: -3952691788142907409
-    second: Books Altas_17
-  - first:
-      213: -2050720234441586854
-    second: Books Altas_18
-  - first:
-      213: 8739882397671275979
-    second: Books Altas_19
-  - first:
-      213: -2590157496109997640
-    second: Books Altas_20
-  - first:
-      213: -6554763617050104770
-    second: Books Altas_21
-  - first:
-      213: -3555701533835471342
-    second: Books Altas_22
+      213: -3920787085701252959
+    second: Speech Bubble Atlas_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -231,463 +210,353 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Books Altas_0
+      name: Speech Bubble Atlas_0
       rect:
         serializedVersion: 2
-        x: 65
-        y: 1716
-        width: 444
-        height: 633
+        x: 0
+        y: 905
+        width: 764
+        height: 95
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45a8ca4a86fef57f0800000000000000
-      internalID: -621514990835430828
+      spriteID: ec97d9de76c3f33e0800000000000000
+      internalID: -2071870886501320242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_1
+      name: Speech Bubble Atlas_1
       rect:
         serializedVersion: 2
-        x: 656
-        y: 1650
-        width: 481
-        height: 715
+        x: 20
+        y: 774
+        width: 836
+        height: 115
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4d29ffe81c08e860800000000000000
-      internalID: 7559305275786210638
+      spriteID: fbce1957acc83f6e0800000000000000
+      internalID: -1804944224461656897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_2
+      name: Speech Bubble Atlas_2
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 1674
-        width: 464
-        height: 677
+        x: 16
+        y: 657
+        width: 535
+        height: 98
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a180097cd797a9a60800000000000000
-      internalID: 7681585695559780378
+      spriteID: 9a828054b9f09d210800000000000000
+      internalID: 1358133922181425321
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_4
-      rect:
-        serializedVersion: 2
-        x: 1842
-        y: 1665
-        width: 490
-        height: 683
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5302f305dc42b6e60800000000000000
-      internalID: 7956493630913323061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_5
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 1599
-        width: 18
-        height: 72
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 708142484742f1b90800000000000000
-      internalID: -7269051190700926969
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_6
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 1644
-        width: 10
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebdaa4830cdf4c710800000000000000
-      internalID: 1712772760327597502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_7
-      rect:
-        serializedVersion: 2
-        x: 1249
-        y: 1599
-        width: 36
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d47a38d44be0f130800000000000000
-      internalID: 3598634783187039449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_9
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 901
-        width: 488
-        height: 656
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5a8baade249fead0800000000000000
-      internalID: -2670753125049333157
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_10
-      rect:
-        serializedVersion: 2
-        x: 648
-        y: 866
-        width: 516
-        height: 673
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3453a76ef958aab0800000000000000
-      internalID: -4996644837372242884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_11
-      rect:
-        serializedVersion: 2
-        x: 984
-        y: 1533
-        width: 20
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 174c1f8cba668dec0800000000000000
-      internalID: -3541968218930166671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_12
-      rect:
-        serializedVersion: 2
-        x: 1249
-        y: 880
-        width: 482
-        height: 677
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be0c63b642f4c5cf0800000000000000
-      internalID: -262247660458163989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_13
-      rect:
-        serializedVersion: 2
-        x: 1790
-        y: 898
-        width: 572
-        height: 635
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73f234b05fb730470800000000000000
-      internalID: 8359661625715928887
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_14
-      rect:
-        serializedVersion: 2
-        x: 1192
-        y: 1395
-        width: 25
-        height: 54
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 87cc364e03d00af20800000000000000
-      internalID: 3431757419697654904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Books Altas_15
+      name: Speech Bubble Atlas_3
       rect:
         serializedVersion: 2
         x: 12
-        y: 97
-        width: 492
-        height: 661
+        y: 537
+        width: 915
+        height: 109
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13ae3daa9b4765690800000000000000
-      internalID: -7613769779239458255
+      spriteID: 51b08fe38f0b70b10800000000000000
+      internalID: 1947719944115850005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_16
+      name: Speech Bubble Atlas_4
       rect:
         serializedVersion: 2
-        x: 648
-        y: 105
-        width: 473
-        height: 653
+        x: 6
+        y: 414
+        width: 942
+        height: 113
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2647b9ed97b566760800000000000000
-      internalID: 7450743212514964578
+      spriteID: ec203c275448a99e0800000000000000
+      internalID: -1613832082645908786
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_17
+      name: Speech Bubble Atlas_5
       rect:
         serializedVersion: 2
-        x: 1217
-        y: 132
-        width: 411
-        height: 627
+        x: 4
+        y: 304
+        width: 899
+        height: 109
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fef632dc2c73529c0800000000000000
-      internalID: -3952691788142907409
+      spriteID: 13023595f43d4d140800000000000000
+      internalID: 4743648645282471985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_18
+      name: Speech Bubble Atlas_6
       rect:
         serializedVersion: 2
-        x: 1687
-        y: 150
-        width: 672
-        height: 635
+        x: 354
+        y: 304
+        width: 12
+        height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a57476cdfc06a83e0800000000000000
-      internalID: -2050720234441586854
+      spriteID: bc5d3e3337f676780800000000000000
+      internalID: -8689854415405591093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_19
+      name: Speech Bubble Atlas_7
       rect:
         serializedVersion: 2
-        x: 2392
-        y: 661
-        width: 8
-        height: 116
+        x: 18
+        y: 186
+        width: 623
+        height: 108
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcdb2eb1cbc4a4970800000000000000
-      internalID: 8739882397671275979
+      spriteID: 9ff9b3faba9a27680800000000000000
+      internalID: -8758751770437771271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_20
+      name: Speech Bubble Atlas_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 474
-        width: 8
-        height: 152
+        x: 628
+        y: 30
+        width: 104
+        height: 229
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b16c040b79ed0cd0800000000000000
-      internalID: -2590157496109997640
+      spriteID: 57d0366c29a3f7e40800000000000000
+      internalID: 5656304059068648821
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_21
+      name: Speech Bubble Atlas_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 382
-        width: 5
-        height: 93
+        x: 777
+        y: 50
+        width: 86
+        height: 212
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3ce21b083dc805a0800000000000000
-      internalID: -6554763617050104770
+      spriteID: e9d34063795adb4d0800000000000000
+      internalID: -3117153298205622882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Books Altas_22
+      name: Speech Bubble Atlas_10
       rect:
         serializedVersion: 2
-        x: 2354
-        y: 369
-        width: 6
-        height: 12
+        x: 884
+        y: 85
+        width: 73
+        height: 189
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 216dc6c3b4c97aec0800000000000000
-      internalID: -3555701533835471342
+      spriteID: 0a2d455e630b8da70800000000000000
+      internalID: 8852018817418973856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speech Bubble Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 95
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c823369bef58d4330800000000000000
+      internalID: 3696758198219518604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speech Bubble Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 6
+        width: 100
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09b46670ac31df0800000000000000
+      internalID: -210602624426471230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speech Bubble Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8916677d65321f0800000000000000
+      internalID: -1070916802979981129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speech Bubble Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 96
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5320ad8e665fca800800000000000000
+      internalID: 625144270639727157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speech Bubble Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 91
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a876d43be09699c0800000000000000
+      internalID: -3920787085701252959
       vertices: []
       indices: 
       edges: []
@@ -696,7 +565,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 38cf2a779582f4354bd2ad69e50580b1
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -706,29 +575,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Books Altas_0: -621514990835430828
-      Books Altas_1: 7559305275786210638
-      Books Altas_10: -4996644837372242884
-      Books Altas_11: -3541968218930166671
-      Books Altas_12: -262247660458163989
-      Books Altas_13: 8359661625715928887
-      Books Altas_14: 3431757419697654904
-      Books Altas_15: -7613769779239458255
-      Books Altas_16: 7450743212514964578
-      Books Altas_17: -3952691788142907409
-      Books Altas_18: -2050720234441586854
-      Books Altas_19: 8739882397671275979
-      Books Altas_2: 7681585695559780378
-      Books Altas_20: -2590157496109997640
-      Books Altas_21: -6554763617050104770
-      Books Altas_22: -3555701533835471342
-      Books Altas_3: 7353586087013271213
-      Books Altas_4: 7956493630913323061
-      Books Altas_5: -7269051190700926969
-      Books Altas_6: 1712772760327597502
-      Books Altas_7: 3598634783187039449
-      Books Altas_8: -5073320303852013781
-      Books Altas_9: -2670753125049333157
+      Speech Bubble Atlas_0: -2071870886501320242
+      Speech Bubble Atlas_1: -1804944224461656897
+      Speech Bubble Atlas_10: 8852018817418973856
+      Speech Bubble Atlas_11: 3696758198219518604
+      Speech Bubble Atlas_12: -210602624426471230
+      Speech Bubble Atlas_13: -1070916802979981129
+      Speech Bubble Atlas_14: 625144270639727157
+      Speech Bubble Atlas_15: -3920787085701252959
+      Speech Bubble Atlas_2: 1358133922181425321
+      Speech Bubble Atlas_3: 1947719944115850005
+      Speech Bubble Atlas_4: -1613832082645908786
+      Speech Bubble Atlas_5: 4743648645282471985
+      Speech Bubble Atlas_6: -8689854415405591093
+      Speech Bubble Atlas_7: -8758751770437771271
+      Speech Bubble Atlas_8: 5656304059068648821
+      Speech Bubble Atlas_9: -3117153298205622882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
