@@ -1,11 +1,39 @@
+using System;
+using TMPro;
 using UnityEngine;
+
 
 public class Instructions : MonoBehaviour
 {
     [SerializeField] private GameObject instructions;
+    [SerializeField] private GameObject canvas;
+    [SerializeField] private string text = "Press Q to Pickup";
+    [SerializeField] private float fontSize = 4;
+    [SerializeField] private Color colour = Color.white;
+    
+    // high the instructions are above the item
+    [SerializeField] private float height = 1.5f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        canvas = GameObject.FindGameObjectWithTag("World Canvas");
+        CreateInstructions();
+        instructions.SetActive(false);
+    }
+
+    private void CreateInstructions()
+    {
+        instructions = new GameObject("Instructions "+ name);
+        instructions.transform.SetParent(canvas.transform, true);
+        TextMeshPro textMesh = instructions.AddComponent<TextMeshPro>();
+
+        
+        textMesh.text = text;
+        textMesh.fontSize = fontSize;
+        textMesh.color = colour;
+        
+        instructions.transform.position = new Vector3(0, 2, 0);
+        
         instructions.SetActive(false);
     }
     public void OnTriggerEnter2D(Collider2D other)
@@ -13,6 +41,8 @@ public class Instructions : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             instructions.SetActive(true);
+            // if i add a rigidbody ill have to change this
+            instructions.transform.position = transform.position + Vector3.up * height;
         }
         
     }
@@ -26,9 +56,13 @@ public class Instructions : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        
+        /*if (instructions.activeSelf)
+        {
+            //transform.TransformPoint()
+            //might have to change if i had a ridigbody 
+            
+        }*/
     }
 }

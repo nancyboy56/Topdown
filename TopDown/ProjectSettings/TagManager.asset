@@ -63,11 +63,11 @@ TagManager:
   - name: Items
     uniqueID: 2807791143
     locked: 0
-  - name: Creature
-    uniqueID: 3421530779
-    locked: 0
   - name: Player
     uniqueID: 2528185311
+    locked: 0
+  - name: Creature
+    uniqueID: 3421530779
     locked: 0
   - name: Foreground
     uniqueID: 1095769499
