@@ -89,11 +89,11 @@ public class NPCDialouge : MonoBehaviour
     void StartDialogue(int line)
     {
         Debug.Log(gameObject.name);
-        Debug.Log("starting dialouge;");
+       
         currentLine = 0;
         currentCharacter = 0;
         lineType = line;
-        Debug.Log("diag:"+ dialogueActive);
+        
 
         if (dialogueActive)
         {
@@ -107,19 +107,13 @@ public class NPCDialouge : MonoBehaviour
             StartCoroutine(ShowText());
         }
         
-        
-
-
-
     }
-
+    
     IEnumerator ShowText()
     {
-        
         while (dialogueActive)
         {
-            
-            
+            // prints letter by letter
             dialogueText.text = CallLine().Substring(0, currentCharacter);
             if (currentCharacter < CallLine().Length)
             {
