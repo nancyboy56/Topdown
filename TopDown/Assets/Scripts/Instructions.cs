@@ -9,7 +9,7 @@ public class Instructions : MonoBehaviour
     [SerializeField] private GameObject canvas;
     [SerializeField] private RectTransform rect;
     [SerializeField] private string text = "Press Q to Pickup";
-    [SerializeField] private float fontSize = 4;
+    [SerializeField] private float fontSize = 24;
     [SerializeField] private Color colour = Color.white;
     
     
@@ -28,15 +28,20 @@ public class Instructions : MonoBehaviour
         instructions = new GameObject("Instructions "+ name);
         instructions.transform.SetParent(canvas.transform, true);
         TextMeshPro textMesh = instructions.AddComponent<TextMeshPro>();
-
+        
+        //Vector2 preferredSize = textMesh.GetPreferredValues(text);
         
         textMesh.text = text;
         textMesh.fontSize = fontSize;
         textMesh.color = colour;
         textMesh.alignment = TextAlignmentOptions.Center;
-        
+        textMesh.ForceMeshUpdate();
+        float actualWidth = textMesh.renderedWidth;
+        float actualHeight = textMesh.renderedHeight;
        // instructions.transform.position = new Vector3(0, 0, 0);
         rect = instructions.GetComponent<RectTransform>();
+        rect.sizeDelta = new Vector2(actualWidth, actualHeight);
+        //rect.sizeDelta = preferredSize;
         instructions.SetActive(false);
     }
     public void OnTriggerEnter2D(Collider2D other)
