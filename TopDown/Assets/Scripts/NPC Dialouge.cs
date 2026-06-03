@@ -173,6 +173,10 @@ public class NPCDialouge : MonoBehaviour
     {
         NextBranch(2);
         gift.transform.SetParent(null, true);
+        foreach (Collider2D c in gift.GetComponents<Collider2D>())
+        {
+            c.enabled = true;
+        }
         playerItems.holding = null;
         playerItems = null;
         gift.transform.position = new Vector3(Random.Range(itemRange, -itemRange), Random.Range(itemRange, -itemRange), 0);
