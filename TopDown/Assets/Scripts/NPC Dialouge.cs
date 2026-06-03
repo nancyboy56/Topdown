@@ -21,7 +21,7 @@ public class NPCDialouge : MonoBehaviour
     [SerializeField] private bool dialogueActive = false;
     
     [SerializeField] private int currentCharacter = 0;
-    [SerializeField] private int lineType =0;
+    [SerializeField] private int branchType =0;
     [SerializeField] private GameObject desire;
     [SerializeField] private GameObject gift;
     [SerializeField] private bool giveDesire;
@@ -49,11 +49,11 @@ public class NPCDialouge : MonoBehaviour
         // i just hard coded the dialouge boxes 
         FlipDialouge(false);
         
-        PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
+       // PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
         playerhealth= GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
         score = GameObject.FindGameObjectWithTag("GM").GetComponent<Scoring>();
         // works be
-        input.actions["Interact"].canceled += DisplayNextLine;
+        //input.actions["Interact"].canceled += DisplayNextLine;
         
         outline.SetActive(true);
         item.SetActive(false);
@@ -68,7 +68,7 @@ public class NPCDialouge : MonoBehaviour
         dialogueText.gameObject.SetActive(b);
     }
 
-    public void DisplayNextLine(InputAction.CallbackContext context)
+    /*public void DisplayNextLine(InputAction.CallbackContext context)
     {
         Debug.Log(gameObject.name +" phase: + context.phase, dialouge: "+ dialogueActive);
        
@@ -84,15 +84,20 @@ public class NPCDialouge : MonoBehaviour
         {
             Debug.Log("no printing");
         }
+    }*/
+
+    public void DisplayNextLine()
+    {
+        NextLine();
     }
 
-    void StartDialogue(int line)
+    void StartDialogue(int branch)
     {
         Debug.Log(gameObject.name);
        
         currentLine = 0;
         currentCharacter = 0;
-        lineType = line;
+        branchType = branch;
         
 
         if (dialogueActive)
@@ -129,12 +134,12 @@ public class NPCDialouge : MonoBehaviour
 
     private string CallLine()
     {
-        return dialogue[lineType].lines[currentLine];
+        return dialogue[branchType].lines[currentLine];
     }
 
     void NextLine()
     {
-        if (currentLine < dialogue[lineType].lines.Length-1)
+        if (currentLine < dialogue[branchType].lines.Length-1)
         {
             Debug.Log("next lines a go");
             currentLine++;
@@ -145,7 +150,7 @@ public class NPCDialouge : MonoBehaviour
             Debug.Log("theres no more lines");
             currentCharacter = 0;
 
-            if (lineType == 1)
+            if (branchType == 1)
             {
                 if (gift == desire)
                 {
@@ -198,7 +203,7 @@ public class NPCDialouge : MonoBehaviour
 
     private void NextBranch(int i)
     {
-        lineType = i;
+        branchType = i;
         currentLine = 0;
         currentCharacter = 0;
     }
@@ -217,32 +222,28 @@ public class NPCDialouge : MonoBehaviour
         dialogueActive = false;
         FlipDialouge(false);
     }
+    
 
-    private void OnTriggerEnter2D(Collider2D other)
+    // when player enters the ghost trigger collider
+    public void PlayerEnters()
     {
-        if (other.CompareTag("Player"))
+        if (giveDesire)
         {
-            if (giveDesire)
-            {
-                StartDialogue(3);
-            }
-            else
-            {
-                Debug.Log("statoing");
-                StartDialogue(0);
-            }
-            
-            
+            StartDialogue(3);
+        }
+        else
+        {
+            Debug.Log("statoing");
+            StartDialogue(0);
         }
     }
 
-    private void OnTriggerExit2D(Collider2D other)
+    public void PlayerExits()
     {
-        if (other.CompareTag("Player"))
-        {
-            Debug.Log("Exiting");
+        Debug.Log("Exiting");
             
-            EndDialogue();
-        }
+        EndDialogue();
     }
+
+    
 }
