@@ -57,7 +57,7 @@ public class PickUp : MonoBehaviour
                 {
                     Give();
                 }
-                else
+                else if( holding !=null)
                 {
                     // throws when it has nothing to hold
                     Throw();

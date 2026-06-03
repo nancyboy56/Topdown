@@ -42,7 +42,7 @@ public class Instructions : MonoBehaviour
         float actualHeight = textMesh.renderedHeight;
        // instructions.transform.position = new Vector3(0, 0, 0);
         rect = instructions.GetComponent<RectTransform>();
-        rect.sizeDelta = new Vector2(actualWidth, actualHeight);
+        rect.sizeDelta = new Vector2(actualWidth+ 1, actualHeight);
         //rect.sizeDelta = preferredSize;
         instructions.SetActive(false);
     }
@@ -67,13 +67,5 @@ public class Instructions : MonoBehaviour
         
     }
 
-    private void FixedUpdate()
-    {
-        /*if (instructions.activeSelf)
-        {
-            //transform.TransformPoint()
-            //might have to change if i had a ridigbody 
-            
-        }*/
-    }
+  
 }

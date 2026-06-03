@@ -295,6 +295,143 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1632434274}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &38585645
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 38585646}
+  - component: {fileID: 38585648}
+  - component: {fileID: 38585647}
+  m_Layer: 5
+  m_Name: Ghost 3 Text Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &38585646
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38585645}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1908044838}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &38585647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38585645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Ghost 3
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_sharedMaterial: {fileID: 6373013847808798600, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &38585648
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38585645}
+  m_CullTransparentMesh: 1
 --- !u!1 &79668976
 GameObject:
   m_ObjectHideFlags: 0
@@ -389,6 +526,143 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &108109665
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 108109666}
+  - component: {fileID: 108109668}
+  - component: {fileID: 108109667}
+  m_Layer: 5
+  m_Name: Ghost 2 Text Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &108109666
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108109665}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1908044838}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 404, y: 1567}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &108109667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108109665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Ghost 2
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_sharedMaterial: {fileID: 6373013847808798600, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &108109668
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108109665}
+  m_CullTransparentMesh: 1
 --- !u!1 &126545290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2818,6 +3092,7 @@ GameObject:
   - component: {fileID: 745523418}
   - component: {fileID: 745523420}
   - component: {fileID: 745523421}
+  - component: {fileID: 745523422}
   m_Layer: 0
   m_Name: Ghost 1
   m_TagString: NPC
@@ -2969,7 +3244,7 @@ MonoBehaviour:
     - literature was always better when i was little
     - i remember this book about...
     - what was it...
-    - maye a ittle prince
+    - maybe a little prince
   - lines:
     - literature?
     - on this island?
@@ -2982,7 +3257,8 @@ MonoBehaviour:
     - how did you find this?
     - i can't believe it still exist
     - i suppose you have my graditue
-  dialogueText: {fileID: 1759950716}
+  dialogueText: {fileID: 1046356765}
+  canvas: {fileID: 0}
   dialogueBox: {fileID: 864998909}
   currentLine: 0
   dialogueActive: 0
@@ -2999,6 +3275,26 @@ MonoBehaviour:
   itemRange: 17.2
   playerhealth: {fileID: 0}
   score: {fileID: 0}
+--- !u!114 &745523422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 745523417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430191ef2992b4edc971d830df76ca68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Instructions
+  instructions: {fileID: 0}
+  canvas: {fileID: 1908044834}
+  rect: {fileID: 0}
+  text: Press Q to Give \n Press E to Talk
+  fontSize: 4
+  colour: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  height: 3
 --- !u!1 &759155601
 GameObject:
   m_ObjectHideFlags: 0
@@ -3024,7 +3320,7 @@ Transform:
   m_GameObject: {fileID: 759155601}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.3, y: 0.42, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15993,6 +16289,143 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
   m_PrefabInstance: {fileID: 1043411816}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1046356763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1046356764}
+  - component: {fileID: 1046356766}
+  - component: {fileID: 1046356765}
+  m_Layer: 5
+  m_Name: Ghost 1 Text Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1046356764
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046356763}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1908044838}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1707, y: 454}
+  m_SizeDelta: {x: 600, y: 80}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1046356765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046356763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Ghost 1
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_sharedMaterial: {fileID: 6373013847808798600, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 512
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1046356766
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1046356763}
+  m_CullTransparentMesh: 1
 --- !u!1001 &1093076288
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21497,7 +21930,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1313426670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22778,17 +23211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 688588607eee749bf89d1c526b2e7eeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collect
---- !u!114 &1759950716 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7742967173874655829, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
-  m_PrefabInstance: {fileID: 1341155836}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1 &1763553910
 GameObject:
   m_ObjectHideFlags: 0
@@ -58570,6 +58992,7 @@ GameObject:
   - component: {fileID: 1876093237}
   - component: {fileID: 1876093239}
   - component: {fileID: 1876093240}
+  - component: {fileID: 1876093241}
   m_Layer: 0
   m_Name: Ghost 2
   m_TagString: NPC
@@ -58688,6 +59111,7 @@ MonoBehaviour:
     - love of my death!
     - little one, whatever can i do to repay you...
   dialogueText: {fileID: 1960541054}
+  canvas: {fileID: 0}
   dialogueBox: {fileID: 1960541055}
   currentLine: 0
   dialogueActive: 0
@@ -58750,6 +59174,26 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 10.443991, y: 6.2724743}
   m_EdgeRadius: 0
+--- !u!114 &1876093241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876093236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430191ef2992b4edc971d830df76ca68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Instructions
+  instructions: {fileID: 0}
+  canvas: {fileID: 1908044834}
+  rect: {fileID: 0}
+  text: Press Q to Give \n Press E to Talk
+  fontSize: 4
+  colour: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  height: 3
 --- !u!1 &1900301052
 GameObject:
   m_ObjectHideFlags: 0
@@ -63680,7 +64124,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: -1043109921
   m_SortingOrder: 0
@@ -63696,7 +64140,10 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
   m_ConstrainProportionsScale: 1
-  m_Children: []
+  m_Children:
+  - {fileID: 1046356764}
+  - {fileID: 108109666}
+  - {fileID: 38585646}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -63981,6 +64428,7 @@ GameObject:
   - component: {fileID: 1935975593}
   - component: {fileID: 1935975595}
   - component: {fileID: 1935975594}
+  - component: {fileID: 1935975596}
   m_Layer: 0
   m_Name: Ghost 3
   m_TagString: NPC
@@ -64142,6 +64590,7 @@ MonoBehaviour:
     - i wish i could eat it all up
     - thank you little child
   dialogueText: {fileID: 272694487}
+  canvas: {fileID: 0}
   dialogueBox: {fileID: 1384801620}
   currentLine: 0
   dialogueActive: 0
@@ -64158,6 +64607,26 @@ MonoBehaviour:
   itemRange: 1
   playerhealth: {fileID: 0}
   score: {fileID: 0}
+--- !u!114 &1935975596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1935975591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430191ef2992b4edc971d830df76ca68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Instructions
+  instructions: {fileID: 0}
+  canvas: {fileID: 1908044834}
+  rect: {fileID: 0}
+  text: Press Q to Give \n Press E to Talk
+  fontSize: 4
+  colour: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 11400000, guid: 71a2084cdae2c473aaa011ea6aebdfe5, type: 2}
+  height: 3
 --- !u!4 &1946970092 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4196584396033300261, guid: 03f5eda58c62e4ed9908e1aef314180c, type: 3}
@@ -65794,9 +66263,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1876093238}
     m_Modifications:
+    - target: {fileID: 378449183383963212, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.36
+      objectReference: {fileID: 0}
     - target: {fileID: 1197604668353990818, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1
+      value: -0.59
       objectReference: {fileID: 0}
     - target: {fileID: 1197604668353990818, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
       propertyPath: m_LocalPosition.y
@@ -65838,10 +66311,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dialouge Ghost 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3307040367347298021, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 6569964650313386819, guid: c0a251b7394464d73803c94240d96d63, type: 3}
+    - target: {fileID: 3881031673206348326, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.4
+      objectReference: {fileID: 0}
     - target: {fileID: 5300467010664429972, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6505029264382527863, guid: 0ac1831f6bb0f44d29e5fd9f9d15c4fc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2071870886501320242, guid: 3e4c4d9e90267420499601b89c4f5f2e, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

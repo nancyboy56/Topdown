@@ -10,12 +10,10 @@ using Random = UnityEngine.Random;
 public class NPCDialouge : MonoBehaviour
 {
     //cant seralise a dictionrary, or a 2d array
-    [SerializeField]
-    private Dialouges[] dialogue;
-    [SerializeField]
-    private TextMeshProUGUI dialogueText;
-    [SerializeField]
-    private GameObject dialogueBox;
+    [SerializeField] private Dialouges[] dialogue;
+    [SerializeField] private TextMeshProUGUI dialogueText;
+    [SerializeField] private GameObject canvas;
+    [SerializeField] private GameObject dialogueBox;
 
     [SerializeField] private int currentLine = 0;
   
@@ -38,8 +36,12 @@ public class NPCDialouge : MonoBehaviour
 
     [SerializeField] private Health playerhealth;
     [SerializeField] private Scoring score;
-   
-  
+
+
+    void Awake()
+    {
+        canvas = GameObject.FindGameObjectWithTag("WorldCanvas");
+    }
 
     void Start()
     {
@@ -58,6 +60,32 @@ public class NPCDialouge : MonoBehaviour
         
         
     }
+
+    /*
+    private void CreateTextBox()
+    {
+        dialogueText = new GameObject("Instructions "+ name);
+        instructions.transform.SetParent(canvas.transform, true);
+        TextMeshPro textMesh = instructions.AddComponent<TextMeshPro>();
+        
+        //Vector2 preferredSize = textMesh.GetPreferredValues(text);
+        
+        textMesh.text = text;
+        textMesh.fontSize = fontSize;
+        textMesh.color = colour;
+        textMesh.alignment = TextAlignmentOptions.Center;
+        textMesh.font = font;
+        textMesh.ForceMeshUpdate();
+        float actualWidth = textMesh.renderedWidth;
+        float actualHeight = textMesh.renderedHeight;
+        // instructions.transform.position = new Vector3(0, 0, 0);
+        rect = instructions.GetComponent<RectTransform>();
+        rect.sizeDelta = new Vector2(actualWidth+ 1, actualHeight);
+        //rect.sizeDelta = preferredSize;
+        instructions.SetActive(false);
+
+    }
+    */
 
     public void DisplayNextLine(InputAction.CallbackContext context)
     {
