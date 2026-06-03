@@ -10,9 +10,10 @@ using Random = UnityEngine.Random;
 public class NPCDialouge : MonoBehaviour
 {
     //cant seralise a dictionrary, or a 2d array
+    //had to make a hack around
     [SerializeField] private Dialouges[] dialogue;
     [SerializeField] private TextMeshProUGUI dialogueText;
-    [SerializeField] private GameObject canvas;
+    
     [SerializeField] private GameObject dialogueBox;
 
     [SerializeField] private int currentLine = 0;
@@ -38,16 +39,15 @@ public class NPCDialouge : MonoBehaviour
     [SerializeField] private Scoring score;
 
 
-    void Awake()
-    {
-        canvas = GameObject.FindGameObjectWithTag("WorldCanvas");
-    }
+   
 
     void Start()
     {
         // get dialouge lines to read from a file
         Debug.Log("ghost npcs");
-        dialogueBox.SetActive(false);
+        
+        // i just hard coded the dialouge boxes 
+        FlipDialouge(false);
         
         PlayerInput input = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerInput>();
         playerhealth= GameObject.FindGameObjectWithTag("Player").GetComponent<Health>();
@@ -61,31 +61,12 @@ public class NPCDialouge : MonoBehaviour
         
     }
 
-    /*
-    private void CreateTextBox()
+    // turns dialouge on or off
+    private void FlipDialouge(bool b)
     {
-        dialogueText = new GameObject("Instructions "+ name);
-        instructions.transform.SetParent(canvas.transform, true);
-        TextMeshPro textMesh = instructions.AddComponent<TextMeshPro>();
-        
-        //Vector2 preferredSize = textMesh.GetPreferredValues(text);
-        
-        textMesh.text = text;
-        textMesh.fontSize = fontSize;
-        textMesh.color = colour;
-        textMesh.alignment = TextAlignmentOptions.Center;
-        textMesh.font = font;
-        textMesh.ForceMeshUpdate();
-        float actualWidth = textMesh.renderedWidth;
-        float actualHeight = textMesh.renderedHeight;
-        // instructions.transform.position = new Vector3(0, 0, 0);
-        rect = instructions.GetComponent<RectTransform>();
-        rect.sizeDelta = new Vector2(actualWidth+ 1, actualHeight);
-        //rect.sizeDelta = preferredSize;
-        instructions.SetActive(false);
-
+        dialogueBox.SetActive(b);
+        dialogueText.gameObject.SetActive(b);
     }
-    */
 
     public void DisplayNextLine(InputAction.CallbackContext context)
     {
@@ -122,7 +103,7 @@ public class NPCDialouge : MonoBehaviour
         else
         {
             dialogueActive = true;
-            dialogueBox.SetActive(true);
+            FlipDialouge(true);
             StartCoroutine(ShowText());
         }
         
@@ -175,40 +156,50 @@ public class NPCDialouge : MonoBehaviour
                 if (gift == desire)
                 {
                     //correct gift
-                    NextBranch(3);
-                    //gift.transform.position = Vector3.zero;
-                    gift.transform.SetParent(holding.transform, false);
-                    
-                    //not efficent but whatever
-                    gift.GetComponent<SpriteRenderer>().sortingLayerID = 8;
-                    gift.transform.localPosition = Vector3.zero;
-                    
-                    playerItems.holding = null;
-                    playerItems = null;
-                    outline.SetActive(false);
-                    item.SetActive(true);
-                    
-                    //update score
-                    score.AddScore(1);
+                    GoodGift();
                 }
                 else
                 {
                     //bad gift
                     
-                    NextBranch(2);
-                    gift.transform.SetParent(null, true);
-                    playerItems.holding = null;
-                    playerItems = null;
-                    gift.transform.position = new Vector3(Random.Range(itemRange, -itemRange), Random.Range(itemRange, -itemRange), 0);
-                    gift = null;
-                    
-                    //do damamge
-                    playerhealth.TakeDamage(1);
+                    BadGift();
                 }
             }
         }
         
         
+    }
+
+    private void BadGift()
+    {
+        NextBranch(2);
+        gift.transform.SetParent(null, true);
+        playerItems.holding = null;
+        playerItems = null;
+        gift.transform.position = new Vector3(Random.Range(itemRange, -itemRange), Random.Range(itemRange, -itemRange), 0);
+        gift = null;
+                    
+        //do damamge
+        playerhealth.TakeDamage(1);
+    }
+
+    private void GoodGift()
+    {
+        NextBranch(3);
+        //gift.transform.position = Vector3.zero;
+        gift.transform.SetParent(holding.transform, false);
+                    
+        //not efficent but whatever
+        gift.GetComponent<SpriteRenderer>().sortingLayerID = 8;
+        gift.transform.localPosition = Vector3.zero;
+                    
+        playerItems.holding = null;
+        playerItems = null;
+        outline.SetActive(false);
+        item.SetActive(true);
+                    
+        //update score
+        score.AddScore(1);
     }
 
     private void NextBranch(int i)
@@ -230,7 +221,7 @@ public class NPCDialouge : MonoBehaviour
     void EndDialogue()
     {
         dialogueActive = false;
-        dialogueBox.SetActive(false);
+        FlipDialouge(false);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
