@@ -7,9 +7,11 @@ public class Instructions : MonoBehaviour
 {
     [SerializeField] private GameObject instructions;
     [SerializeField] private GameObject canvas;
+    [SerializeField] private RectTransform rect;
     [SerializeField] private string text = "Press Q to Pickup";
     [SerializeField] private float fontSize = 4;
     [SerializeField] private Color colour = Color.white;
+    
     
     // high the instructions are above the item
     [SerializeField] private float height = 1.5f;
@@ -31,9 +33,10 @@ public class Instructions : MonoBehaviour
         textMesh.text = text;
         textMesh.fontSize = fontSize;
         textMesh.color = colour;
+        textMesh.alignment = TextAlignmentOptions.Center;
         
-        instructions.transform.position = new Vector3(0, 2, 0);
-        
+       // instructions.transform.position = new Vector3(0, 0, 0);
+        rect = instructions.GetComponent<RectTransform>();
         instructions.SetActive(false);
     }
     public void OnTriggerEnter2D(Collider2D other)
@@ -42,7 +45,8 @@ public class Instructions : MonoBehaviour
         {
             instructions.SetActive(true);
             // if i add a rigidbody ill have to change this
-            instructions.transform.position = transform.position + Vector3.up * height;
+           // instructions.transform.position = transform.position + Vector3.up * height;
+           rect.position= transform.position + Vector3.up * height;
         }
         
     }
