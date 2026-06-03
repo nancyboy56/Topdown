@@ -148,8 +148,12 @@ public class NPCDialouge : MonoBehaviour
                 {
                     //correct gift
                     NextBranch(3);
-                    gift.transform.position = Vector3.zero;
+                    //gift.transform.position = Vector3.zero;
                     gift.transform.SetParent(holding.transform, false);
+                    
+                    //not efficent but whatever
+                    gift.GetComponent<SpriteRenderer>().sortingLayerID = 8;
+                    gift.transform.localPosition = Vector3.zero;
                     
                     playerItems.holding = null;
                     playerItems = null;
