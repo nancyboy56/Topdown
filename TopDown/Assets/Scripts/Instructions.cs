@@ -11,6 +11,7 @@ public class Instructions : MonoBehaviour
     [SerializeField] private string text = "Press Q to Pickup";
     [SerializeField] private float fontSize = 24;
     [SerializeField] private Color colour = Color.white;
+    [SerializeField] private TMP_FontAsset font;
     
     
     // high the instructions are above the item
@@ -35,6 +36,7 @@ public class Instructions : MonoBehaviour
         textMesh.fontSize = fontSize;
         textMesh.color = colour;
         textMesh.alignment = TextAlignmentOptions.Center;
+        textMesh.font = font;
         textMesh.ForceMeshUpdate();
         float actualWidth = textMesh.renderedWidth;
         float actualHeight = textMesh.renderedHeight;
