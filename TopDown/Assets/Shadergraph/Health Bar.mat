@@ -54,9 +54,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Percentage: 0
+    - _Health: 0.3
+    - _Percentage: 0.71
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.8113207, g: 0.12629047, b: 0.12629047, a: 1}
+    - _BackColour: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.6886792, g: 0.15267888, b: 0.15267888, a: 0.77254903}
+    - _Full: {r: 0.39935696, g: 0.8584906, b: 0.13363296, a: 1}
+    - _Full_Colour: {r: 0.85882354, g: 0.13333334, b: 0.38393658, a: 1}
+    - _Low: {r: 0.8773585, g: 0.13656998, b: 0.13656998, a: 1}
+    - _Low_Colour: {r: 0.30013227, g: 0.8784314, b: 0.13725491, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

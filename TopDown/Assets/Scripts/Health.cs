@@ -12,6 +12,7 @@ public class Health : MonoBehaviour
     [SerializeField] private TextMeshProUGUI healthText;
 
     [SerializeField] private Sounds SM;
+    [SerializeField] private UpdateHealth updateHealth;
     
     private PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -39,9 +40,7 @@ public class Health : MonoBehaviour
             currenthealth += amount;
         }
         
-        healthText.text = currenthealth.ToString();
-
-        PlayerPrefs.SetFloat("Health", currenthealth);
+        UpdateHealth();
     }
 
     public void TakeDamage(float amount)
@@ -56,9 +55,19 @@ public class Health : MonoBehaviour
             currenthealth -= amount;
             //layerController.ResetPlayer();
         }
-        healthText.text = currenthealth.ToString();
-        PlayerPrefs.SetFloat("Health", currenthealth);
+        UpdateHealth();
         SM.Enemy();
+    }
+
+    private void UpdateHealth()
+    {
+        //this I want to put on the health text
+        //maybe I should add an event system
+        healthText.text = currenthealth.ToString();
+        
+        //updates UI
+        updateHealth.Health();
+        PlayerPrefs.SetFloat("Health", currenthealth);
     }
 
     public float GetHealth()
