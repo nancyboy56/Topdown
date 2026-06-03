@@ -29,6 +29,7 @@ public class UpdateHealth : MonoBehaviour
 
     public void Health()
     {
-        image.material.SetFloat("Health", health.GetHealth()/health.GetMaxHealth());
+        Debug.Log(health.GetHealth()/health.GetMaxHealth());
+        image.material.SetFloat("_Health", health.GetHealth()/health.GetMaxHealth());
     }
 }

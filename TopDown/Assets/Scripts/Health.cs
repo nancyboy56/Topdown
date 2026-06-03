@@ -12,15 +12,16 @@ public class Health : MonoBehaviour
     [SerializeField] private TextMeshProUGUI healthText;
 
     [SerializeField] private Sounds SM;
-    [SerializeField] private UpdateHealth updateHealth;
+    [SerializeField] private UpdateHealth healthBar;
     
     private PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         currenthealth = maxhealth;
-        healthText.text = currenthealth.ToString();
+        
         playerController = GetComponent<PlayerController>();
+        UpdateHealth();
     }
 
     // Update is called once per frame
@@ -66,7 +67,7 @@ public class Health : MonoBehaviour
         healthText.text = currenthealth.ToString();
         
         //updates UI
-        updateHealth.Health();
+        healthBar.Health();
         PlayerPrefs.SetFloat("Health", currenthealth);
     }
 
