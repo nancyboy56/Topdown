@@ -68,23 +68,7 @@ public class NPCDialouge : MonoBehaviour
         dialogueText.gameObject.SetActive(b);
     }
 
-    /*public void DisplayNextLine(InputAction.CallbackContext context)
-    {
-        Debug.Log(gameObject.name +" phase: + context.phase, dialouge: "+ dialogueActive);
-       
-       //Debug.Log("phase:" + context.phase, );
-       
-        if (context.canceled && dialogueActive)
-        {
-            Debug.Log("printing.....]");
-            Debug.Log(CallLine());
-            NextLine();
-        }
-        else
-        {
-            Debug.Log("no printing");
-        }
-    }*/
+    
 
     public void DisplayNextLine()
     {
@@ -200,7 +184,7 @@ public class NPCDialouge : MonoBehaviour
         playerItems = null;
         outline.SetActive(false);
         item.SetActive(true);
-                    
+        PlayerPrefs.SetString("Desires", PlayerPrefs.GetString("Desires") +","+desire.name);            
         //update score
         score.AddScore(1);
     }
