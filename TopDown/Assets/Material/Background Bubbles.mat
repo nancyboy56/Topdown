@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Red Buubles
+  m_Name: Background Bubbles
   m_Shader: {fileID: -6465566751694194690, guid: 853cce920d13d4e14bdc1fd41308752b, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -54,17 +54,17 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Height: 0.01
-    - _Intensity: 3.29
-    - _NoiseSpeed: 1
-    - _Period: 1
-    - _Scale: 10
+    - _Height: 0
+    - _Intensity: 6.31
+    - _NoiseSpeed: 0
+    - _Period: 0
+    - _Scale: 0
     - _Size: 0.68
-    - _Speed: 0.3
-    - _Tile: 0.02
+    - _Speed: 0.001
+    - _Tile: 0.05
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Colour: {r: 0.9150943, g: 0.038848326, b: 0.038848326, a: 1}
+    - _Colour: {r: 0, g: 0, b: 0, a: 1}
     - _Tiling: {r: 1.23, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
