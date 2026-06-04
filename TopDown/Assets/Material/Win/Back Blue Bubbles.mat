@@ -70,7 +70,7 @@ Material:
     - _Tile: 0.05
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Colour: {r: 0.1981132, g: 0, b: 0, a: 1}
+    - _Colour: {r: 0, g: 0.13719569, b: 0.2, a: 1}
     - _Tiling: {r: 1.23, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

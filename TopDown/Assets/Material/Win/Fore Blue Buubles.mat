@@ -65,12 +65,12 @@ Material:
     - _Period: 1.1
     - _Scale: 40
     - _Size: 0.9
-    - _Speed: 0.2
+    - _Speed: 0.15
     - _Threahold: 0
     - _Tile: 0.02
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Colour: {r: 1, g: 0, b: 0, a: 1}
+    - _Colour: {r: 0.3537736, g: 0.8496089, b: 1, a: 1}
     - _Tiling: {r: 1.23, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

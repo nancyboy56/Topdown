@@ -47,8 +47,8 @@ Material:
     - _Speed: 0.72
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Accent: {r: 0.8584906, g: 0.13363297, b: 0.13363297, a: 1}
-    - _Color: {r: 0.5, g: 0.096698105, b: 0.15271224, a: 1}
+    - _Accent: {r: 0, g: 1, b: 0.9638114, a: 1}
+    - _Color: {r: 0.093716644, g: 0.35838035, b: 0.509434, a: 1}
     - _OffsetTexture: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
