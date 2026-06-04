@@ -54,12 +54,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alpha_intensity: 1.72
+    - _Circle_Intensity: 2.34
+    - _Circle_Size: 0.68
+    - _Colour_Intenisty: 1.21
+    - _Height: 0.1
     - _Intensity: 2
-    - _NoiseSpeed: 1.4
-    - _Scale: 13.6
+    - _NoiseSpeed: 0.5
+    - _Period: 0.2
+    - _Scale: 10
     - _Size: 0.68
     - _Speed: 0.1
-    - _Tile: 0.15
+    - _Tile: 0.13
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
     - _Colour: {r: 1, g: 1, b: 1, a: 1}

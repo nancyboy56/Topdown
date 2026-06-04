@@ -44,7 +44,7 @@ public class NPCDialouge : MonoBehaviour
     void Start()
     {
         // get dialouge lines to read from a file
-        Debug.Log("ghost npcs");
+        //Debug.Log("ghost npcs");
         
         // i just hard coded the dialouge boxes 
         FlipDialouge(false);
@@ -57,6 +57,7 @@ public class NPCDialouge : MonoBehaviour
         
         outline.SetActive(true);
         item.SetActive(false);
+        PlayerPrefs.SetString("Desires", "");
         
         
     }
@@ -77,7 +78,7 @@ public class NPCDialouge : MonoBehaviour
 
     void StartDialogue(int branch)
     {
-        Debug.Log(gameObject.name);
+        //Debug.Log(gameObject.name);
        
         currentLine = 0;
         currentCharacter = 0;
@@ -125,7 +126,7 @@ public class NPCDialouge : MonoBehaviour
     {
         if (currentLine < dialogue[branchType].lines.Length-1)
         {
-            Debug.Log("next lines a go");
+           // Debug.Log("next lines a go");
             currentLine++;
             currentCharacter = 0;
         }
@@ -177,13 +178,14 @@ public class NPCDialouge : MonoBehaviour
         gift.transform.SetParent(holding.transform, false);
                     
         //not efficent but whatever
-        gift.GetComponent<SpriteRenderer>().sortingLayerID = 8;
+        gift.GetComponent<SpriteRenderer>().sortingLayerName = "Foreground";
         gift.transform.localPosition = Vector3.zero;
                     
         playerItems.holding = null;
         playerItems = null;
         outline.SetActive(false);
         item.SetActive(true);
+        giveDesire = true;
         PlayerPrefs.SetString("Desires", PlayerPrefs.GetString("Desires") +","+desire.name);            
         //update score
         score.AddScore(1);
@@ -221,14 +223,14 @@ public class NPCDialouge : MonoBehaviour
         }
         else
         {
-            Debug.Log("statoing");
+            //Debug.Log("statoing");
             StartDialogue(0);
         }
     }
 
     public void PlayerExits()
     {
-        Debug.Log("Exiting");
+        //Debug.Log("Exiting");
             
         EndDialogue();
     }
