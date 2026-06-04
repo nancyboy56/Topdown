@@ -41,13 +41,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Density: 2
+    - _Density: 0.63
     - _OffsetRipples: 0
-    - _Ripples: 3
-    - _Speed: 1
+    - _Ripples: 3.94
+    - _Speed: 0.72
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Accent: {r: 1, g: 0.25943398, b: 0.25943398, a: 1}
+    - _Accent: {r: 1, g: 0, b: 0, a: 1}
     - _Color: {r: 0.6886792, g: 0.12669095, b: 0.20562196, a: 1}
     - _OffsetTexture: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
