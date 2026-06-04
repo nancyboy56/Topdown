@@ -54,17 +54,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alpha_intensity: 11.4
+    - _CircleIntensity: 2
+    - _Circle_Intensity: 2
+    - _Circle_Size: 1
+    - _Colour_Intenisty: 1
     - _Height: 0.01
     - _Intensity: 1
-    - _NoiseSpeed: 10
+    - _NoiseSpeed: 0.5
     - _Period: 1
-    - _Scale: 10
+    - _Scale: 7.72
     - _Size: 0.94
     - _Speed: 0.03
+    - _Threahold: 0
     - _Tile: 0.04
     m_Colors:
     - White: {r: 1, g: 1, b: 1, a: 1}
-    - _Colour: {r: 0.2735849, g: 0, b: 0, a: 1}
+    - _Colour: {r: 0.33962262, g: 0, b: 0.024258828, a: 1}
     - _Tiling: {r: 1.23, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
