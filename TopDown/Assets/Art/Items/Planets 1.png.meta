@@ -309,6 +309,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Planets 1_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1597
+        width: 449
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535ece624d9c1145884e380c8063dea
+      internalID: 98178524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -331,6 +353,7 @@ TextureImporter:
       Planets 1_5: 2465836127629757014
       Planets 1_6: 9161907964471186760
       Planets 1_7: -409983330293380161
+      Planets 1_8: 98178524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
