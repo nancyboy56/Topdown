@@ -6510,28 +6510,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_225
-      rect:
-        serializedVersion: 2
-        x: 1642
-        y: 2026
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82f85b18a064e7ee0800000000000000
-      internalID: -1261493834677383384
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_226
       rect:
         serializedVersion: 2
@@ -6549,50 +6527,6 @@ TextureImporter:
       bones: []
       spriteID: 163521f9e149533a0800000000000000
       internalID: -6686275212522925215
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_229
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 1983
-        width: 31
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0aabc05b05b212960800000000000000
-      internalID: 7575383673848773280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_230
-      rect:
-        serializedVersion: 2
-        x: 1666
-        y: 1995
-        width: 10
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3b52dfe8d1795920800000000000000
-      internalID: 2979537805032708922
       vertices: []
       indices: 
       edges: []
@@ -6642,28 +6576,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_233
-      rect:
-        serializedVersion: 2
-        x: 1526
-        y: 1974
-        width: 13
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4483ba7de59b2860800000000000000
-      internalID: 7506258051141436495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_234
       rect:
         serializedVersion: 2
@@ -6681,50 +6593,6 @@ TextureImporter:
       bones: []
       spriteID: 91c46303b44279a00800000000000000
       internalID: 763118567212600345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_235
-      rect:
-        serializedVersion: 2
-        x: 1690
-        y: 1959
-        width: 42
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 589f7b14bab48e450800000000000000
-      internalID: 6118223292696885637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_237
-      rect:
-        serializedVersion: 2
-        x: 1599
-        y: 1955
-        width: 32
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e30dc8de89193ef0800000000000000
-      internalID: -128043013089983514
       vertices: []
       indices: 
       edges: []
@@ -6791,28 +6659,6 @@ TextureImporter:
       bones: []
       spriteID: 59d01d7accc78ef20800000000000000
       internalID: 3452146332810153365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_242
-      rect:
-        serializedVersion: 2
-        x: 1662
-        y: 1919
-        width: 31
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be91cbc579ba67750800000000000000
-      internalID: 6302413395135830507
       vertices: []
       indices: 
       edges: []
@@ -6906,28 +6752,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_248
-      rect:
-        serializedVersion: 2
-        x: 1637
-        y: 1942
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ebb0315d624e07f50800000000000000
-      internalID: 6877247486429432766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_249
       rect:
         serializedVersion: 2
@@ -6950,28 +6774,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_250
-      rect:
-        serializedVersion: 2
-        x: 1726
-        y: 1949
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 875ea6051d2522750800000000000000
-      internalID: 6278671889458718072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_251
       rect:
         serializedVersion: 2
@@ -6989,50 +6791,6 @@ TextureImporter:
       bones: []
       spriteID: 5d1d39c41df08bbd0800000000000000
       internalID: -2614322192081235499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_252
-      rect:
-        serializedVersion: 2
-        x: 1764
-        y: 1954
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ade050cd706ae63a0800000000000000
-      internalID: -6670211445402824998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_256
-      rect:
-        serializedVersion: 2
-        x: 1472
-        y: 1942
-        width: 21
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a07506506501d62f0800000000000000
-      internalID: -978107582426097910
       vertices: []
       indices: 
       edges: []
@@ -7104,28 +6862,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_260
-      rect:
-        serializedVersion: 2
-        x: 1739
-        y: 1913
-        width: 70
-        height: 42
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2ccf625ced8f1db0800000000000000
-      internalID: -4818977030128284627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_261
       rect:
         serializedVersion: 2
@@ -7187,28 +6923,6 @@ TextureImporter:
       bones: []
       spriteID: 9f1f3f656edb8ece0800000000000000
       internalID: -1375640889162731015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_264
-      rect:
-        serializedVersion: 2
-        x: 1495
-        y: 1898
-        width: 27
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a158a327e0ac2b7c0800000000000000
-      internalID: -4056958150912604902
       vertices: []
       indices: 
       edges: []
@@ -7495,28 +7209,6 @@ TextureImporter:
       bones: []
       spriteID: 58c653052ef87f700800000000000000
       internalID: 574085679684086917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_278
-      rect:
-        serializedVersion: 2
-        x: 1727
-        y: 1880
-        width: 26
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7f133efc22ba28f00800000000000000
-      internalID: 1117643823546315255
       vertices: []
       indices: 
       edges: []
@@ -7874,50 +7566,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_295
-      rect:
-        serializedVersion: 2
-        x: 1760
-        y: 1876
-        width: 29
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01a08392f3a7d86a0800000000000000
-      internalID: -6445361080004244976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_296
-      rect:
-        serializedVersion: 2
-        x: 1793
-        y: 1866
-        width: 31
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65fc10c20618d4050800000000000000
-      internalID: 5786423346296115030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_297
       rect:
         serializedVersion: 2
@@ -8006,72 +7654,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_301
-      rect:
-        serializedVersion: 2
-        x: 1740
-        y: 1835
-        width: 37
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c12e9946734537d0800000000000000
-      internalID: -2939369006469078585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_302
-      rect:
-        serializedVersion: 2
-        x: 1742
-        y: 1854
-        width: 11
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01ae200d54f10d900800000000000000
-      internalID: 707099526200224272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_303
-      rect:
-        serializedVersion: 2
-        x: 1789
-        y: 1833
-        width: 32
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c90cd5dd66173ca20800000000000000
-      internalID: 3081431256666063004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_304
       rect:
         serializedVersion: 2
@@ -8116,72 +7698,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_306
-      rect:
-        serializedVersion: 2
-        x: 1781
-        y: 1837
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10ea0c4ca6d665310800000000000000
-      internalID: 1393421440052669953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_307
-      rect:
-        serializedVersion: 2
-        x: 1740
-        y: 1829
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d46b9102fa3aeecc0800000000000000
-      internalID: -3679823872961956275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_308
-      rect:
-        serializedVersion: 2
-        x: 1746
-        y: 1825
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8293eae894b165eb0800000000000000
-      internalID: -4731564355765782232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_309
       rect:
         serializedVersion: 2
@@ -8199,138 +7715,6 @@ TextureImporter:
       bones: []
       spriteID: f0f6f2cf01e174990800000000000000
       internalID: -7401914404260843761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_310
-      rect:
-        serializedVersion: 2
-        x: 1719
-        y: 1803
-        width: 30
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10413d0793a7c1570800000000000000
-      internalID: 8438754188910072833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_311
-      rect:
-        serializedVersion: 2
-        x: 1744
-        y: 1796
-        width: 24
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb40513b4cc5aa990800000000000000
-      internalID: -7373979439977921349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_312
-      rect:
-        serializedVersion: 2
-        x: 1751
-        y: 1817
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3c4ae99fc1251d90800000000000000
-      internalID: -7127753659719726017
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_313
-      rect:
-        serializedVersion: 2
-        x: 1772
-        y: 1810
-        width: 10
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e58415a3cfc2f9340800000000000000
-      internalID: 4872662783659952222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_314
-      rect:
-        serializedVersion: 2
-        x: 1772
-        y: 1799
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee395039376dc0300800000000000000
-      internalID: 219786273710511086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_315
-      rect:
-        serializedVersion: 2
-        x: 1787
-        y: 1805
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e719fb1b374934730800000000000000
-      internalID: 3982189720149922174
       vertices: []
       indices: 
       edges: []
@@ -8952,28 +8336,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bush atlas_344
-      rect:
-        serializedVersion: 2
-        x: 1712
-        y: 1699
-        width: 9
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96ebcda56d157a510800000000000000
-      internalID: 1560305776996433513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: bush atlas_345
       rect:
         serializedVersion: 2
@@ -9145,28 +8507,6 @@ TextureImporter:
       bones: []
       spriteID: 287d716ed4ca3c450800000000000000
       internalID: 6107914970217305986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bush atlas_353
-      rect:
-        serializedVersion: 2
-        x: 1707
-        y: 1669
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 823a29ec646185050800000000000000
-      internalID: 5789401814354010920
       vertices: []
       indices: 
       edges: []
