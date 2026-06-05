@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 8dcebe2d6fff3a34caff4f990e0a4f91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6058139987511186010
+    second: Ghost Spritesheet_0
+  - first:
+      213: -6061043868293950471
+    second: Ghost Spritesheet_1
+  - first:
+      213: -8178991296475166054
+    second: Ghost Spritesheet_2
+  - first:
+      213: -2786528833580700022
+    second: Ghost Spritesheet_3
+  - first:
+      213: -4719256626251615337
+    second: Ghost Spritesheet_4
+  - first:
+      213: 4719365245283636765
+    second: Ghost Spritesheet_5
+  - first:
+      213: 1285258605507969923
+    second: Ghost Spritesheet_6
+  - first:
+      213: -4689598807187893005
+    second: Ghost Spritesheet_7
+  - first:
+      213: -6108318382992992563
+    second: Ghost Spritesheet_8
+  - first:
+      213: -4489382927894224449
+    second: Ghost Spritesheet_9
+  - first:
+      213: -1101325515490980396
+    second: Ghost Spritesheet_10
+  - first:
+      213: -8127561910817144980
+    second: Ghost Spritesheet_11
+  - first:
+      213: -4121452084298249758
+    second: Ghost Spritesheet_12
+  - first:
+      213: -5290509014286059383
+    second: Ghost Spritesheet_13
+  - first:
+      213: -2976734368859752342
+    second: Ghost Spritesheet_14
+  - first:
+      213: -4182552258100384009
+    second: Ghost Spritesheet_15
+  - first:
+      213: -4847302949712750201
+    second: Ghost Spritesheet_16
+  - first:
+      213: -8247854670667035345
+    second: Ghost Spritesheet_17
+  - first:
+      213: -52569773834332082
+    second: Ghost Spritesheet_18
+  - first:
+      213: 3616273523681323774
+    second: Ghost Spritesheet_19
+  - first:
+      213: 7963590995873724870
+    second: Ghost Spritesheet_20
+  - first:
+      213: -7089758090959062560
+    second: Ghost Spritesheet_21
+  - first:
+      213: 1370410903236993466
+    second: Ghost Spritesheet_22
+  - first:
+      213: 2530383535101060298
+    second: Ghost Spritesheet_23
+  - first:
+      213: -8174402930771216489
+    second: Ghost Spritesheet_24
+  - first:
+      213: 1134125776145964433
+    second: Ghost Spritesheet_25
+  - first:
+      213: 7704233278312889167
+    second: Ghost Spritesheet_26
+  - first:
+      213: 938756186253489984
+    second: Ghost Spritesheet_27
+  - first:
+      213: 912719500306468631
+    second: Ghost Spritesheet_28
+  - first:
+      213: 8868991382568022434
+    second: Ghost Spritesheet_29
+  - first:
+      213: 5801813044863556400
+    second: Ghost Spritesheet_30
+  - first:
+      213: 5079086749984053673
+    second: Ghost Spritesheet_31
+  - first:
+      213: 6107094373276171944
+    second: Ghost Spritesheet_32
+  - first:
+      213: -4935970049137790307
+    second: Ghost Spritesheet_33
+  - first:
+      213: 6944560571689956504
+    second: Ghost Spritesheet_34
+  - first:
+      213: -7573630626107697338
+    second: Ghost Spritesheet_35
+  - first:
+      213: 1360265883040512668
+    second: Ghost Spritesheet_36
+  - first:
+      213: -4004249399087420924
+    second: Ghost Spritesheet_37
+  - first:
+      213: -1621255691906636147
+    second: Ghost Spritesheet_38
+  - first:
+      213: -3815009281694966195
+    second: Ghost Spritesheet_39
+  - first:
+      213: 201088705694448873
+    second: Ghost Spritesheet_40
+  - first:
+      213: -6667762927430326715
+    second: Ghost Spritesheet_41
+  - first:
+      213: -5589721546957067483
+    second: Ghost Spritesheet_42
+  - first:
+      213: 5348533833411944095
+    second: Ghost Spritesheet_43
+  - first:
+      213: 1426715836934307179
+    second: Ghost Spritesheet_44
+  - first:
+      213: 7293020993061296387
+    second: Ghost Spritesheet_45
+  - first:
+      213: 8225970366860867642
+    second: Ghost Spritesheet_46
+  - first:
+      213: -3407621933467528331
+    second: Ghost Spritesheet_47
+  - first:
+      213: -7301965339121348258
+    second: Ghost Spritesheet_48
+  - first:
+      213: -4614822622879800669
+    second: Ghost Spritesheet_49
+  - first:
+      213: -7795206347886358056
+    second: Ghost Spritesheet_50
+  - first:
+      213: 1525169507543057107
+    second: Ghost Spritesheet_51
+  - first:
+      213: 568457435247402187
+    second: Ghost Spritesheet_52
+  - first:
+      213: 4116093199331639099
+    second: Ghost Spritesheet_53
+  - first:
+      213: -7175397218993483022
+    second: Ghost Spritesheet_54
+  - first:
+      213: -912003412307168257
+    second: Ghost Spritesheet_55
+  - first:
+      213: 1311494913247345624
+    second: Ghost Spritesheet_56
+  - first:
+      213: 1391452013415397763
+    second: Ghost Spritesheet_57
+  - first:
+      213: 5096679353049785309
+    second: Ghost Spritesheet_58
+  - first:
+      213: 6445727342657992647
+    second: Ghost Spritesheet_59
+  - first:
+      213: 8532643573943818978
+    second: Ghost Spritesheet_60
+  - first:
+      213: -4874090316064572349
+    second: Ghost Spritesheet_61
+  - first:
+      213: -2336108882783884657
+    second: Ghost Spritesheet_62
+  - first:
+      213: 1688573958095830200
+    second: Ghost Spritesheet_63
+  - first:
+      213: -1304937780529712345
+    second: Ghost Spritesheet_64
+  - first:
+      213: -4191761140142726876
+    second: Ghost Spritesheet_65
+  - first:
+      213: 1547486953277450394
+    second: Ghost Spritesheet_66
+  - first:
+      213: -8809362373714957833
+    second: Ghost Spritesheet_67
+  - first:
+      213: -5935923446107019945
+    second: Ghost Spritesheet_68
+  - first:
+      213: 5721577326855368587
+    second: Ghost Spritesheet_69
+  - first:
+      213: -328988347066661184
+    second: Ghost Spritesheet_70
+  - first:
+      213: -8698363708589305319
+    second: Ghost Spritesheet_71
+  - first:
+      213: -8009975898890436800
+    second: Ghost Spritesheet_72
+  - first:
+      213: -2638008776978158134
+    second: Ghost Spritesheet_73
+  - first:
+      213: 3749310757220176649
+    second: Ghost Spritesheet_74
+  - first:
+      213: -7147430201348063736
+    second: Ghost Spritesheet_75
+  - first:
+      213: -8612897165514085199
+    second: Ghost Spritesheet_76
+  - first:
+      213: -2940820116686356314
+    second: Ghost Spritesheet_77
+  - first:
+      213: -6718682417275757184
+    second: Ghost Spritesheet_78
+  - first:
+      213: 4140213501633603075
+    second: Ghost Spritesheet_79
+  - first:
+      213: 5323216674154213429
+    second: Ghost Spritesheet_80
+  - first:
+      213: -6839863294808274809
+    second: Ghost Spritesheet_81
+  - first:
+      213: -4052123430558546181
+    second: Ghost Spritesheet_82
+  - first:
+      213: 5785557551109149793
+    second: Ghost Spritesheet_83
+  - first:
+      213: 3127576169696737036
+    second: Ghost Spritesheet_84
+  - first:
+      213: 3387660992357278395
+    second: Ghost Spritesheet_85
+  - first:
+      213: -5119140876787972925
+    second: Ghost Spritesheet_86
+  - first:
+      213: 936719678450209127
+    second: Ghost Spritesheet_87
+  - first:
+      213: -7002492029973064463
+    second: Ghost Spritesheet_88
+  - first:
+      213: -4661371098803979842
+    second: Ghost Spritesheet_89
+  - first:
+      213: -4259166706083959290
+    second: Ghost Spritesheet_90
+  - first:
+      213: -650345110912255389
+    second: Ghost Spritesheet_91
+  - first:
+      213: 7772617395640947847
+    second: Ghost Spritesheet_92
+  - first:
+      213: 5818438225694634989
+    second: Ghost Spritesheet_93
+  - first:
+      213: 6763303375161689095
+    second: Ghost Spritesheet_94
+  - first:
+      213: 954213439754067783
+    second: Ghost Spritesheet_95
+  - first:
+      213: 4789486494465698002
+    second: Ghost Spritesheet_96
+  - first:
+      213: -4214947300804537303
+    second: Ghost Spritesheet_97
+  - first:
+      213: 3987435675728604166
+    second: Ghost Spritesheet_98
+  - first:
+      213: -3536138590040370208
+    second: Ghost Spritesheet_99
+  - first:
+      213: 5314477463530707897
+    second: Ghost Spritesheet_100
+  - first:
+      213: 8448249579504476130
+    second: Ghost Spritesheet_101
+  - first:
+      213: -4007544618432094784
+    second: Ghost Spritesheet_102
+  - first:
+      213: 4871900780071194010
+    second: Ghost Spritesheet_103
+  - first:
+      213: -2670139114510666717
+    second: Ghost Spritesheet_104
+  - first:
+      213: 7547974110647447681
+    second: Ghost Spritesheet_105
+  - first:
+      213: 5484836118986918570
+    second: Ghost Spritesheet_106
+  - first:
+      213: -883834758347592344
+    second: Ghost Spritesheet_107
+  - first:
+      213: 6113730421055794488
+    second: Ghost Spritesheet_108
+  - first:
+      213: -7789937137556502753
+    second: Ghost Spritesheet_109
+  - first:
+      213: 8919201811864905579
+    second: Ghost Spritesheet_110
+  - first:
+      213: -4180760373723715491
+    second: Ghost Spritesheet_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 631
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529133a836d21450800000000000000
+      internalID: 6058139987511186010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 595
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3974ee6b8d2eba0800000000000000
+      internalID: -6061043868293950471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 574
+        height: 900
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a069000c26e7e80800000000000000
+      internalID: -8178991296475166054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c738cdaf84567340b468eec9d9ec1b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":600.0,"y":900.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ghost Spritesheet_0: 6058139987511186010
+      Ghost Spritesheet_1: -6061043868293950471
+      Ghost Spritesheet_2: -8178991296475166054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
