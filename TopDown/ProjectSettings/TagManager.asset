@@ -12,6 +12,7 @@ TagManager:
   - NPC
   - Instructions
   - World Canvas
+  - Sand
   layers:
   - Default
   - TransparentFX
