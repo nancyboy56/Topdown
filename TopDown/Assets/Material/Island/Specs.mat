@@ -54,7 +54,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Alpha_intensity: 1.72
+    - _Alpha_intensity: 2.53
     - _Circle_Intensity: 2.34
     - _Circle_Size: 0.68
     - _Colour_Intenisty: 1.21
