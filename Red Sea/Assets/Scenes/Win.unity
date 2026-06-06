@@ -447,7 +447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DisplayHelathbar
   image: {fileID: 0}
   maxHealth: 5
-  health: 
+  health: Health
 --- !u!1001 &428666540
 PrefabInstance:
   m_ObjectHideFlags: 0
