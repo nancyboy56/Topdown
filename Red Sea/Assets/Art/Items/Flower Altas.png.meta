@@ -1,0 +1,4550 @@
+fileFormatVersion: 2
+guid: c014d32e717784632969a43c8cf34f78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2716947792284020469
+    second: Flower Altas_0
+  - first:
+      213: 6754801648167773502
+    second: Flower Altas_1
+  - first:
+      213: -524120960826111727
+    second: Flower Altas_2
+  - first:
+      213: -3352606192059621318
+    second: Flower Altas_3
+  - first:
+      213: 7679329999580106046
+    second: Flower Altas_4
+  - first:
+      213: 3571955825615841541
+    second: Flower Altas_5
+  - first:
+      213: -2735919987032928075
+    second: Flower Altas_6
+  - first:
+      213: -2341318646843865328
+    second: Flower Altas_7
+  - first:
+      213: 4198817580612592814
+    second: Flower Altas_8
+  - first:
+      213: 5245400352425469945
+    second: Flower Altas_9
+  - first:
+      213: 6550497066663995239
+    second: Flower Altas_10
+  - first:
+      213: -7917734188908421723
+    second: Flower Altas_11
+  - first:
+      213: -2106094358418764166
+    second: Flower Altas_12
+  - first:
+      213: 3516132957119056425
+    second: Flower Altas_13
+  - first:
+      213: -3062932952629822952
+    second: Flower Altas_14
+  - first:
+      213: -7107048128939582268
+    second: Flower Altas_15
+  - first:
+      213: -2131369129409351960
+    second: Flower Altas_16
+  - first:
+      213: -7129345283840224414
+    second: Flower Altas_17
+  - first:
+      213: -2278657333551185114
+    second: Flower Altas_18
+  - first:
+      213: 8419269826344629049
+    second: Flower Altas_19
+  - first:
+      213: -1194298251428263682
+    second: Flower Altas_20
+  - first:
+      213: 1609908448559828476
+    second: Flower Altas_21
+  - first:
+      213: 8809495524475624271
+    second: Flower Altas_22
+  - first:
+      213: -899035308668798453
+    second: Flower Altas_23
+  - first:
+      213: -3925045053404588904
+    second: Flower Altas_24
+  - first:
+      213: 3958944648183896652
+    second: Flower Altas_25
+  - first:
+      213: 6831478729627904084
+    second: Flower Altas_26
+  - first:
+      213: -832722112805560933
+    second: Flower Altas_27
+  - first:
+      213: 807744322901181890
+    second: Flower Altas_28
+  - first:
+      213: 8568970986070981666
+    second: Flower Altas_29
+  - first:
+      213: -3017050206577407329
+    second: Flower Altas_30
+  - first:
+      213: 6508168674492231741
+    second: Flower Altas_31
+  - first:
+      213: -7934812552686780029
+    second: Flower Altas_32
+  - first:
+      213: 9059731594664983204
+    second: Flower Altas_33
+  - first:
+      213: 2459450914664104623
+    second: Flower Altas_34
+  - first:
+      213: -1924929702049144634
+    second: Flower Altas_35
+  - first:
+      213: 4656660970147045801
+    second: Flower Altas_36
+  - first:
+      213: 2971419783124402132
+    second: Flower Altas_37
+  - first:
+      213: 4053797132941324485
+    second: Flower Altas_38
+  - first:
+      213: -8833043700619005212
+    second: Flower Altas_39
+  - first:
+      213: -1713450719360070040
+    second: Flower Altas_40
+  - first:
+      213: -6859451310870416550
+    second: Flower Altas_41
+  - first:
+      213: -8663645841078616972
+    second: Flower Altas_42
+  - first:
+      213: 4997998581917667021
+    second: Flower Altas_43
+  - first:
+      213: -4631918407590727430
+    second: Flower Altas_44
+  - first:
+      213: -1922518394320038674
+    second: Flower Altas_45
+  - first:
+      213: -2419968236260858704
+    second: Flower Altas_46
+  - first:
+      213: -2115620070746849009
+    second: Flower Altas_47
+  - first:
+      213: 9126139924230630293
+    second: Flower Altas_48
+  - first:
+      213: -2647251183134410980
+    second: Flower Altas_49
+  - first:
+      213: 9096565873465155373
+    second: Flower Altas_50
+  - first:
+      213: -7230428473287486431
+    second: Flower Altas_51
+  - first:
+      213: -5446993876863723991
+    second: Flower Altas_52
+  - first:
+      213: -4365574726327422695
+    second: Flower Altas_53
+  - first:
+      213: 2446019165050030866
+    second: Flower Altas_54
+  - first:
+      213: -4814251132832388517
+    second: Flower Altas_55
+  - first:
+      213: -2133634767744245681
+    second: Flower Altas_56
+  - first:
+      213: 8134251629609940563
+    second: Flower Altas_57
+  - first:
+      213: 4369385542253723748
+    second: Flower Altas_58
+  - first:
+      213: -1391796982953618243
+    second: Flower Altas_59
+  - first:
+      213: 2969577700723145937
+    second: Flower Altas_60
+  - first:
+      213: -7769044007030849074
+    second: Flower Altas_61
+  - first:
+      213: 7538349970907938188
+    second: Flower Altas_62
+  - first:
+      213: 2963736059802660533
+    second: Flower Altas_63
+  - first:
+      213: 5721916536598384480
+    second: Flower Altas_64
+  - first:
+      213: 882131418151952811
+    second: Flower Altas_65
+  - first:
+      213: 8671917359007881439
+    second: Flower Altas_66
+  - first:
+      213: 7066053644248161
+    second: Flower Altas_67
+  - first:
+      213: 6622493519999831584
+    second: Flower Altas_68
+  - first:
+      213: -6228725214403423291
+    second: Flower Altas_69
+  - first:
+      213: 5743060719207107974
+    second: Flower Altas_70
+  - first:
+      213: 2368246213016876832
+    second: Flower Altas_71
+  - first:
+      213: 4520889906673213966
+    second: Flower Altas_72
+  - first:
+      213: 1170997318703832481
+    second: Flower Altas_73
+  - first:
+      213: 2609132390895969525
+    second: Flower Altas_74
+  - first:
+      213: -1470758363729965436
+    second: Flower Altas_75
+  - first:
+      213: 3550064901080171958
+    second: Flower Altas_76
+  - first:
+      213: 3357250133232690088
+    second: Flower Altas_77
+  - first:
+      213: -6383043335184490334
+    second: Flower Altas_78
+  - first:
+      213: 8911727962292740095
+    second: Flower Altas_79
+  - first:
+      213: -4236879569987424150
+    second: Flower Altas_80
+  - first:
+      213: -5335224942719209410
+    second: Flower Altas_81
+  - first:
+      213: -5080410713622485947
+    second: Flower Altas_82
+  - first:
+      213: 3336500718688384092
+    second: Flower Altas_83
+  - first:
+      213: 2572485381422020857
+    second: Flower Altas_84
+  - first:
+      213: -8250043801065090557
+    second: Flower Altas_85
+  - first:
+      213: 4230556829968830430
+    second: Flower Altas_86
+  - first:
+      213: -1327433893617282600
+    second: Flower Altas_87
+  - first:
+      213: -8232326014166294961
+    second: Flower Altas_88
+  - first:
+      213: -538205131257508939
+    second: Flower Altas_89
+  - first:
+      213: 2215510538110671854
+    second: Flower Altas_90
+  - first:
+      213: 5652413044647099891
+    second: Flower Altas_91
+  - first:
+      213: -2949786852096362144
+    second: Flower Altas_92
+  - first:
+      213: 8561372564504481633
+    second: Flower Altas_93
+  - first:
+      213: -8678021304888138922
+    second: Flower Altas_94
+  - first:
+      213: 5313623698173653419
+    second: Flower Altas_95
+  - first:
+      213: -1021421084898416011
+    second: Flower Altas_96
+  - first:
+      213: 8210629236656547677
+    second: Flower Altas_97
+  - first:
+      213: 2997044546317263426
+    second: Flower Altas_98
+  - first:
+      213: -8757018080149202986
+    second: Flower Altas_99
+  - first:
+      213: -7172118758407516624
+    second: Flower Altas_100
+  - first:
+      213: -1413114836132616353
+    second: Flower Altas_101
+  - first:
+      213: -6437029191452007294
+    second: Flower Altas_102
+  - first:
+      213: 3479841500262006540
+    second: Flower Altas_103
+  - first:
+      213: -4221064618349320558
+    second: Flower Altas_104
+  - first:
+      213: 8846798475723868893
+    second: Flower Altas_105
+  - first:
+      213: 158077378987459041
+    second: Flower Altas_106
+  - first:
+      213: 6227419758308645776
+    second: Flower Altas_107
+  - first:
+      213: -1964786064052042266
+    second: Flower Altas_108
+  - first:
+      213: 3620691637187761248
+    second: Flower Altas_109
+  - first:
+      213: -5880185299914371428
+    second: Flower Altas_110
+  - first:
+      213: -8727498982266037402
+    second: Flower Altas_111
+  - first:
+      213: -384511887402402812
+    second: Flower Altas_112
+  - first:
+      213: 5475631298951189430
+    second: Flower Altas_113
+  - first:
+      213: -6534781272775209266
+    second: Flower Altas_114
+  - first:
+      213: 3073212732425041934
+    second: Flower Altas_115
+  - first:
+      213: 943062602037830602
+    second: Flower Altas_116
+  - first:
+      213: -3379647740373392544
+    second: Flower Altas_117
+  - first:
+      213: -3383385858476177078
+    second: Flower Altas_118
+  - first:
+      213: 7835573429401680130
+    second: Flower Altas_119
+  - first:
+      213: 1459323794594260850
+    second: Flower Altas_120
+  - first:
+      213: 236294828006101651
+    second: Flower Altas_121
+  - first:
+      213: -2229222690709395655
+    second: Flower Altas_122
+  - first:
+      213: -2598225847430677110
+    second: Flower Altas_123
+  - first:
+      213: 4688812832120517598
+    second: Flower Altas_124
+  - first:
+      213: -4148008320003942061
+    second: Flower Altas_125
+  - first:
+      213: 2379137176591936032
+    second: Flower Altas_126
+  - first:
+      213: -5004860443727734752
+    second: Flower Altas_127
+  - first:
+      213: -5860197002903913402
+    second: Flower Altas_128
+  - first:
+      213: 7201738329345519405
+    second: Flower Altas_129
+  - first:
+      213: -4078114235922901597
+    second: Flower Altas_130
+  - first:
+      213: 8940787238731002338
+    second: Flower Altas_131
+  - first:
+      213: 1434717984086633731
+    second: Flower Altas_132
+  - first:
+      213: -7145105123292811781
+    second: Flower Altas_133
+  - first:
+      213: 8064952871464361538
+    second: Flower Altas_134
+  - first:
+      213: 5297290123339687177
+    second: Flower Altas_135
+  - first:
+      213: 118617871309915979
+    second: Flower Altas_136
+  - first:
+      213: 3404737533150969329
+    second: Flower Altas_137
+  - first:
+      213: 4573554806654860408
+    second: Flower Altas_138
+  - first:
+      213: -6222831613931620650
+    second: Flower Altas_139
+  - first:
+      213: -9129280586382190483
+    second: Flower Altas_140
+  - first:
+      213: 5045319412019594695
+    second: Flower Altas_141
+  - first:
+      213: 1606013561669842810
+    second: Flower Altas_142
+  - first:
+      213: -4311335803776660977
+    second: Flower Altas_143
+  - first:
+      213: 5409964846526123409
+    second: Flower Altas_144
+  - first:
+      213: 658896879536895197
+    second: Flower Altas_145
+  - first:
+      213: -4198033009240325560
+    second: Flower Altas_146
+  - first:
+      213: -5881564096514466823
+    second: Flower Altas_147
+  - first:
+      213: 8360066263690439514
+    second: Flower Altas_148
+  - first:
+      213: -3420735382479920158
+    second: Flower Altas_149
+  - first:
+      213: 8567461065184556577
+    second: Flower Altas_150
+  - first:
+      213: 5814787207564065508
+    second: Flower Altas_151
+  - first:
+      213: 5986854092029332803
+    second: Flower Altas_152
+  - first:
+      213: -8543713279153404630
+    second: Flower Altas_153
+  - first:
+      213: 7916081455772098922
+    second: Flower Altas_154
+  - first:
+      213: -3801267112153244465
+    second: Flower Altas_155
+  - first:
+      213: -4360386264135263461
+    second: Flower Altas_156
+  - first:
+      213: -2485147218538281056
+    second: Flower Altas_157
+  - first:
+      213: 2051786771614466325
+    second: Flower Altas_158
+  - first:
+      213: -6290281464303469768
+    second: Flower Altas_159
+  - first:
+      213: -8258084229843129635
+    second: Flower Altas_160
+  - first:
+      213: 3942241207069240648
+    second: Flower Altas_161
+  - first:
+      213: -9180500720800066775
+    second: Flower Altas_162
+  - first:
+      213: -3409868209542019720
+    second: Flower Altas_163
+  - first:
+      213: -3175700712554823151
+    second: Flower Altas_164
+  - first:
+      213: -9041292540730549252
+    second: Flower Altas_165
+  - first:
+      213: 7743684187708020884
+    second: Flower Altas_166
+  - first:
+      213: 7354634926287748409
+    second: Flower Altas_167
+  - first:
+      213: 6734111031969088895
+    second: Flower Altas_168
+  - first:
+      213: 1610679378940604110
+    second: Flower Altas_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flower Altas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1827
+        width: 185
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feee504f9984b520800000000000000
+      internalID: 2716947792284020469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1815
+        width: 198
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35634f7f40edbd50800000000000000
+      internalID: 6754801648167773502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1804
+        width: 195
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198f9653c2f9b8f0800000000000000
+      internalID: -524120960826111727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1805
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e2826e662971d0800000000000000
+      internalID: -3352606192059621318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1811
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d09f1a2f5729a60800000000000000
+      internalID: 7679329999580106046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_5
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1911
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509283bf5e2229130800000000000000
+      internalID: 3571955825615841541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_6
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1817
+        width: 155
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d20f644f080ad0800000000000000
+      internalID: -2735919987032928075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_7
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1828
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0178fd47817f18fd0800000000000000
+      internalID: -2341318646843865328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_8
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1824
+        width: 162
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42411e752354a30800000000000000
+      internalID: 4198817580612592814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1345
+        width: 366
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7670744d76bc840800000000000000
+      internalID: 5245400352425469945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1635
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767eeb8406a08ea50800000000000000
+      internalID: 6550497066663995239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1632
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add52484be8e1290800000000000000
+      internalID: -7917734188908421723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_12
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1615
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ecefee656a5c2e0800000000000000
+      internalID: -2106094358418764166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1629
+        width: 165
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a00249b40dbc030800000000000000
+      internalID: 3516132957119056425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1613
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a39ab25b64e75d0800000000000000
+      internalID: -3062932952629822952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_15
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1638
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc93f8a161be5d90800000000000000
+      internalID: -7107048128939582268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_16
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1632
+        width: 105
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee625cb11bdb62e0800000000000000
+      internalID: -2131369129409351960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_17
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1618
+        width: 187
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263d89bbc3a7f0d90800000000000000
+      internalID: -7129345283840224414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1458
+        width: 101
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c7dc5a359060e0800000000000000
+      internalID: -2278657333551185114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1470
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933bf63cc4147d470800000000000000
+      internalID: 8419269826344629049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1470
+        width: 117
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef88fb761100d6fe0800000000000000
+      internalID: -1194298251428263682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_21
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1471
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd0f4d443b875610800000000000000
+      internalID: 1609908448559828476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1456
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b53ca318d914a70800000000000000
+      internalID: 8809495524475624271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1463
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a334a662cf583f0800000000000000
+      internalID: -899035308668798453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_24
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1447
+        width: 116
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8945a68d1507789c0800000000000000
+      internalID: -3925045053404588904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_25
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1460
+        width: 111
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a5f60ae2ff0f630800000000000000
+      internalID: 3958944648183896652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1207
+        width: 134
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ab1ab5b94ece50800000000000000
+      internalID: 6831478729627904084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_27
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1230
+        width: 146
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d9c9d76a39174f0800000000000000
+      internalID: -832722112805560933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_28
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1326
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c50ddb9e2fa53b00800000000000000
+      internalID: 807744322901181890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_29
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1163
+        width: 209
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cb36326b91be670800000000000000
+      internalID: 8568970986070981666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1385
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4f6772d84126d0800000000000000
+      internalID: -3017050206577407329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1389
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d303f6d7de8a15a50800000000000000
+      internalID: 6508168674492231741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_32
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1379
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814bc51602e1e190800000000000000
+      internalID: -7934812552686780029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_33
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1380
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab36482e1aabd70800000000000000
+      internalID: 9059731594664983204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_34
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1392
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2401f7399b12220800000000000000
+      internalID: 2459450914664104623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_35
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1352
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c023cb72a64945e0800000000000000
+      internalID: -1924929702049144634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_36
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1378
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16a05fa78cf9040800000000000000
+      internalID: 4656660970147045801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_37
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1380
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfb2bbac8a9c3920800000000000000
+      internalID: 2971419783124402132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_38
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1380
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0f674b30bf14830800000000000000
+      internalID: 4053797132941324485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1217
+        width: 127
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e23a13cd89ba6580800000000000000
+      internalID: -8833043700619005212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1206
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ec76426a99838e0800000000000000
+      internalID: -1713450719360070040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_41
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1199
+        width: 162
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533b7d20655ec0a0800000000000000
+      internalID: -6859451310870416550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_42
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1356
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf7be620c84c780800000000000000
+      internalID: -8663645841078616972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_43
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1225
+        width: 180
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcecb1fca357c5540800000000000000
+      internalID: 4997998581917667021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_44
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1347
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af036fecfbe18bfb0800000000000000
+      internalID: -4631918407590727430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_45
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1341
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee45660d4b7d155e0800000000000000
+      internalID: -1922518394320038674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1125
+        width: 203
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b461fde5bb8a6ed0800000000000000
+      internalID: -2419968236260858704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_47
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1328
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01827331cec3a2e0800000000000000
+      internalID: -2115620070746849009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_48
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59be642a8ef86ae70800000000000000
+      internalID: 9126139924230630293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_49
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1291
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177a0e1313134bd0800000000000000
+      internalID: -2647251183134410980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_50
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1295
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd4db577e7d3e70800000000000000
+      internalID: 9096565873465155373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_51
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1315
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12454dbac9b58ab90800000000000000
+      internalID: -7230428473287486431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1292
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9265fcbade36864b0800000000000000
+      internalID: -5446993876863723991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_53
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1296
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b4dc8aec5a63c0800000000000000
+      internalID: -4365574726327422695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_54
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1297
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bca96987102f120800000000000000
+      internalID: 2446019165050030866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_55
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1271
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae0080a18503db0800000000000000
+      internalID: -4814251132832388517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1273
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406e24bb7ec362e0800000000000000
+      internalID: -2133634767744245681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_57
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356fa8092caa2e070800000000000000
+      internalID: 8134251629609940563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_58
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1277
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c2cc200d23ac30800000000000000
+      internalID: 4369385542253723748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_59
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1280
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4d69f94085face0800000000000000
+      internalID: -1391796982953618243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_60
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1259
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc36807f2f063920800000000000000
+      internalID: 2969577700723145937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_61
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1265
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec18c8443afce2490800000000000000
+      internalID: -7769044007030849074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1270
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3b80db599d9860800000000000000
+      internalID: 7538349970907938188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_63
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bead8c6e3e412920800000000000000
+      internalID: 2963736059802660533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_64
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f416626c4586f40800000000000000
+      internalID: 5721916536598384480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_65
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1249
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1a820e9d5fd3c00800000000000000
+      internalID: 882131418151952811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_66
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1253
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8553964e6d85870800000000000000
+      internalID: 8671917359007881439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_67
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1239
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164ed61d98a191000800000000000000
+      internalID: 7066053644248161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_68
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1238
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8aead4c2d7eb50800000000000000
+      internalID: 6622493519999831584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_69
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c317ff2b6f1f89a0800000000000000
+      internalID: -6228725214403423291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_70
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1239
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc6dbcb4373bf40800000000000000
+      internalID: 5743060719207107974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_71
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1244
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f88b1263bdd020800000000000000
+      internalID: 2368246213016876832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_72
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1193
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e7ebda6d6dbe30800000000000000
+      internalID: 4520889906673213966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_73
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1228
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1add64e6bd7304010800000000000000
+      internalID: 1170997318703832481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_74
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1228
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e153f510853420800000000000000
+      internalID: 2609132390895969525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_75
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec0738f01d69be0800000000000000
+      internalID: -1470758363729965436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_76
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1225
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5477ee73d544130800000000000000
+      internalID: 3550064901080171958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_77
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1212
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a77d6539579e20800000000000000
+      internalID: 3357250133232690088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_78
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0676cc7efda67a0800000000000000
+      internalID: -6383043335184490334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_79
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffdf578d51dcab70800000000000000
+      internalID: 8911727962292740095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_80
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1206
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a603ac2aa749335c0800000000000000
+      internalID: -4236879569987424150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_81
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1207
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30fa6c8e2975f5b0800000000000000
+      internalID: -5335224942719209410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54461758f51ce79b0800000000000000
+      internalID: -5080410713622485947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1194
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b142e9b1ad4e20800000000000000
+      internalID: 3336500718688384092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_84
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1190
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87b8523dd43b320800000000000000
+      internalID: 2572485381422020857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_85
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1196
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021a10afd4f18d80800000000000000
+      internalID: -8250043801065090557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_86
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf056cb505f5ba30800000000000000
+      internalID: 4230556829968830430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_87
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1180
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1d02428e1049de0800000000000000
+      internalID: -1327433893617282600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 589
+        width: 291
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e196a5b17e0cd80800000000000000
+      internalID: -8232326014166294961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_89
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 997
+        width: 212
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8a1fd849e788f0800000000000000
+      internalID: -538205131257508939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_90
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1182
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb983c98131fbe10800000000000000
+      internalID: 2215510538110671854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_91
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1183
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd79f167b7617e40800000000000000
+      internalID: 5652413044647099891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_92
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1186
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069bda59c704017d0800000000000000
+      internalID: -2949786852096362144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_93
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1168
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8011ccfa10d670800000000000000
+      internalID: 8561372564504481633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_94
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1107
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653eed0f999719780800000000000000
+      internalID: -8678021304888138922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_95
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1172
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1fcb7c998cdb940800000000000000
+      internalID: 5313623698173653419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_96
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1160
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a298c5fee23d1f0800000000000000
+      internalID: -1021421084898416011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_97
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1170
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a959f9c302f170800000000000000
+      internalID: 8210629236656547677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_98
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1172
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2422347c224a79920800000000000000
+      internalID: 2997044546317263426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_99
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79809e372d87680800000000000000
+      internalID: -8757018080149202986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_100
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1158
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e443e1df3877c90800000000000000
+      internalID: -7172118758407516624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_101
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1158
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572b752b8b936ce0800000000000000
+      internalID: -1413114836132616353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_102
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1153
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284eea22e041ba6a0800000000000000
+      internalID: -6437029191452007294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_103
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1162
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f77c15861ea4030800000000000000
+      internalID: 3479841500262006540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_104
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1148
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296a1510814cb65c0800000000000000
+      internalID: -4221064618349320558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_105
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1028
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0df0675426ca70800000000000000
+      internalID: 8846798475723868893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_106
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1163
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18295e98a913200800000000000000
+      internalID: 158077378987459041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_107
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1147
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b5c31a64d3c6650800000000000000
+      internalID: 6227419758308645776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_108
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1052
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e54a801c7dabb4e0800000000000000
+      internalID: -1964786064052042266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_109
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1150
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064ddcb5cd74f3230800000000000000
+      internalID: 3620691637187761248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_110
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1090
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e4121df92656ea0800000000000000
+      internalID: -5880185299914371428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_111
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1152
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b13787ae1b1e680800000000000000
+      internalID: -8727498982266037402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_112
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cf673c970f9aaf0800000000000000
+      internalID: -384511887402402812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_113
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1061
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b31ffeb7a95dfb40800000000000000
+      internalID: 5475631298951189430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_114
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1145
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ececb5f1e0bcf45a0800000000000000
+      internalID: -6534781272775209266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_115
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1048
+        width: 118
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f66392be36aa20800000000000000
+      internalID: 3073212732425041934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_116
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1049
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ab63a07e661d00800000000000000
+      internalID: 943062602037830602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_117
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1141
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063a71949441911d0800000000000000
+      internalID: -3379647740373392544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_118
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1140
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a498277dc7ccb01d0800000000000000
+      internalID: -3383385858476177078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_119
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1131
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f9f6f48c8dbc60800000000000000
+      internalID: 7835573429401680130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_120
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1051
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e015624f804410800000000000000
+      internalID: 1459323794594260850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_121
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1124
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392d095e4ec774300800000000000000
+      internalID: 236294828006101651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_122
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1116
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937a60316c53011e0800000000000000
+      internalID: -2229222690709395655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_123
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df7a59b5f31fbd0800000000000000
+      internalID: -2598225847430677110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_124
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed336dcad62021140800000000000000
+      internalID: 4688812832120517598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_125
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1078
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359dcc8f8605f66c0800000000000000
+      internalID: -4148008320003942061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_126
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1056
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a20ba28a4640120800000000000000
+      internalID: 2379137176591936032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_127
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1102
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028543d71f92b8ab0800000000000000
+      internalID: -5004860443727734752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_128
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1098
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7a10efd56caea0800000000000000
+      internalID: -5860197002903913402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_129
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1041
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f64f5aad6b1f360800000000000000
+      internalID: 7201738329345519405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_130
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1041
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51a5e85b0a767c0800000000000000
+      internalID: -4078114235922901597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_131
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1049
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e138e09f9e041c70800000000000000
+      internalID: 8940787238731002338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_132
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1030
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d2952b76429e310800000000000000
+      internalID: 1434717984086633731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_133
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1036
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdee4b2fbc77dc90800000000000000
+      internalID: -7145105123292811781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_134
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1031
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e56e918e77cef60800000000000000
+      internalID: 8064952871464361538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_135
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 990
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e8d90d41c38940800000000000000
+      internalID: 5297290123339687177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_136
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 812
+        width: 149
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c073535a65a100800000000000000
+      internalID: 118617871309915979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_137
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 806
+        width: 164
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd37e05fbe004f20800000000000000
+      internalID: 3404737533150969329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_138
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 821
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c717b6dd7887f30800000000000000
+      internalID: 4573554806654860408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_139
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 821
+        width: 138
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6f88afd9f04a9a0800000000000000
+      internalID: -6222831613931620650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_140
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 816
+        width: 139
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d1d9fca74e4180800000000000000
+      internalID: -9129280586382190483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_141
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 854
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58fc32643940640800000000000000
+      internalID: 5045319412019594695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_142
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 858
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777ac743d4b94610800000000000000
+      internalID: 1606013561669842810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_143
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 857
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a087ccdee0b24c0800000000000000
+      internalID: -4311335803776660977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_144
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 602
+        width: 103
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d4a8c5d5e041b40800000000000000
+      internalID: 5409964846526123409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_145
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 613
+        width: 91
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4f860983fd42900800000000000000
+      internalID: 658896879536895197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_146
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 627
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842cdd068379db5c0800000000000000
+      internalID: -4198033009240325560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_147
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 602
+        width: 186
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5097bd9c706ea0800000000000000
+      internalID: -5881564096514466823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_148
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 617
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5beef929fbe40470800000000000000
+      internalID: 8360066263690439514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_149
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 656
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3aca02b4b1780d0800000000000000
+      internalID: -3420735382479920158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_150
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 664
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b059427cb5e670800000000000000
+      internalID: 8567461065184556577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_151
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 651
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea775f382642b050800000000000000
+      internalID: 5814787207564065508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 151
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8085b314951350800000000000000
+      internalID: 5986854092029332803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_153
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 429
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2506450a02ae6980800000000000000
+      internalID: -8543713279153404630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_154
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 436
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a616a5094229bdd60800000000000000
+      internalID: 7916081455772098922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_155
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 473
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1bb393bf2f3bc0800000000000000
+      internalID: -3801267112153244465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_156
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 445
+        width: 151
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b99ba8bcbcc73c0800000000000000
+      internalID: -4360386264135263461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_157
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 449
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c97885cbf28dd0800000000000000
+      internalID: -2485147218538281056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_158
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 452
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110deca239697c10800000000000000
+      internalID: 2051786771614466325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_159
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 450
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb7f6e55e64b8a0800000000000000
+      internalID: -6290281464303469768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_160
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 459
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae1fa6524656d80800000000000000
+      internalID: -8258084229843129635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_161
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 493
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84de44ead77a5b630800000000000000
+      internalID: 3942241207069240648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_162
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 431
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9239e7c1c3f489080800000000000000
+      internalID: -9180500720800066775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 233
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875c95ffde6bda0d0800000000000000
+      internalID: -3409868209542019720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_164
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 212
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112073b0705ade3d0800000000000000
+      internalID: -3175700712554823151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_165
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 231
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbdd574650e68280800000000000000
+      internalID: -9041292540730549252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_166
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 228
+        width: 121
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498552dadb7177b60800000000000000
+      internalID: 7743684187708020884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_167
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 244
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dff0abf79e01660800000000000000
+      internalID: 7354634926287748409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_168
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 243
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758e820e4e547d50800000000000000
+      internalID: 6734111031969088895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower Altas_169
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 247
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece2dc48c584a5610800000000000000
+      internalID: 1610679378940604110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flower Altas_0: 2716947792284020469
+      Flower Altas_1: 6754801648167773502
+      Flower Altas_10: 6550497066663995239
+      Flower Altas_100: -7172118758407516624
+      Flower Altas_101: -1413114836132616353
+      Flower Altas_102: -6437029191452007294
+      Flower Altas_103: 3479841500262006540
+      Flower Altas_104: -4221064618349320558
+      Flower Altas_105: 8846798475723868893
+      Flower Altas_106: 158077378987459041
+      Flower Altas_107: 6227419758308645776
+      Flower Altas_108: -1964786064052042266
+      Flower Altas_109: 3620691637187761248
+      Flower Altas_11: -7917734188908421723
+      Flower Altas_110: -5880185299914371428
+      Flower Altas_111: -8727498982266037402
+      Flower Altas_112: -384511887402402812
+      Flower Altas_113: 5475631298951189430
+      Flower Altas_114: -6534781272775209266
+      Flower Altas_115: 3073212732425041934
+      Flower Altas_116: 943062602037830602
+      Flower Altas_117: -3379647740373392544
+      Flower Altas_118: -3383385858476177078
+      Flower Altas_119: 7835573429401680130
+      Flower Altas_12: -2106094358418764166
+      Flower Altas_120: 1459323794594260850
+      Flower Altas_121: 236294828006101651
+      Flower Altas_122: -2229222690709395655
+      Flower Altas_123: -2598225847430677110
+      Flower Altas_124: 4688812832120517598
+      Flower Altas_125: -4148008320003942061
+      Flower Altas_126: 2379137176591936032
+      Flower Altas_127: -5004860443727734752
+      Flower Altas_128: -5860197002903913402
+      Flower Altas_129: 7201738329345519405
+      Flower Altas_13: 3516132957119056425
+      Flower Altas_130: -4078114235922901597
+      Flower Altas_131: 8940787238731002338
+      Flower Altas_132: 1434717984086633731
+      Flower Altas_133: -7145105123292811781
+      Flower Altas_134: 8064952871464361538
+      Flower Altas_135: 5297290123339687177
+      Flower Altas_136: 118617871309915979
+      Flower Altas_137: 3404737533150969329
+      Flower Altas_138: 4573554806654860408
+      Flower Altas_139: -6222831613931620650
+      Flower Altas_14: -3062932952629822952
+      Flower Altas_140: -9129280586382190483
+      Flower Altas_141: 5045319412019594695
+      Flower Altas_142: 1606013561669842810
+      Flower Altas_143: -4311335803776660977
+      Flower Altas_144: 5409964846526123409
+      Flower Altas_145: 658896879536895197
+      Flower Altas_146: -4198033009240325560
+      Flower Altas_147: -5881564096514466823
+      Flower Altas_148: 8360066263690439514
+      Flower Altas_149: -3420735382479920158
+      Flower Altas_15: -7107048128939582268
+      Flower Altas_150: 8567461065184556577
+      Flower Altas_151: 5814787207564065508
+      Flower Altas_152: 5986854092029332803
+      Flower Altas_153: -8543713279153404630
+      Flower Altas_154: 7916081455772098922
+      Flower Altas_155: -3801267112153244465
+      Flower Altas_156: -4360386264135263461
+      Flower Altas_157: -2485147218538281056
+      Flower Altas_158: 2051786771614466325
+      Flower Altas_159: -6290281464303469768
+      Flower Altas_16: -2131369129409351960
+      Flower Altas_160: -8258084229843129635
+      Flower Altas_161: 3942241207069240648
+      Flower Altas_162: -9180500720800066775
+      Flower Altas_163: -3409868209542019720
+      Flower Altas_164: -3175700712554823151
+      Flower Altas_165: -9041292540730549252
+      Flower Altas_166: 7743684187708020884
+      Flower Altas_167: 7354634926287748409
+      Flower Altas_168: 6734111031969088895
+      Flower Altas_169: 1610679378940604110
+      Flower Altas_17: -7129345283840224414
+      Flower Altas_18: -2278657333551185114
+      Flower Altas_19: 8419269826344629049
+      Flower Altas_2: -524120960826111727
+      Flower Altas_20: -1194298251428263682
+      Flower Altas_21: 1609908448559828476
+      Flower Altas_22: 8809495524475624271
+      Flower Altas_23: -899035308668798453
+      Flower Altas_24: -3925045053404588904
+      Flower Altas_25: 3958944648183896652
+      Flower Altas_26: 6831478729627904084
+      Flower Altas_27: -832722112805560933
+      Flower Altas_28: 807744322901181890
+      Flower Altas_29: 8568970986070981666
+      Flower Altas_3: -3352606192059621318
+      Flower Altas_30: -3017050206577407329
+      Flower Altas_31: 6508168674492231741
+      Flower Altas_32: -7934812552686780029
+      Flower Altas_33: 9059731594664983204
+      Flower Altas_34: 2459450914664104623
+      Flower Altas_35: -1924929702049144634
+      Flower Altas_36: 4656660970147045801
+      Flower Altas_37: 2971419783124402132
+      Flower Altas_38: 4053797132941324485
+      Flower Altas_39: -8833043700619005212
+      Flower Altas_4: 7679329999580106046
+      Flower Altas_40: -1713450719360070040
+      Flower Altas_41: -6859451310870416550
+      Flower Altas_42: -8663645841078616972
+      Flower Altas_43: 4997998581917667021
+      Flower Altas_44: -4631918407590727430
+      Flower Altas_45: -1922518394320038674
+      Flower Altas_46: -2419968236260858704
+      Flower Altas_47: -2115620070746849009
+      Flower Altas_48: 9126139924230630293
+      Flower Altas_49: -2647251183134410980
+      Flower Altas_5: 3571955825615841541
+      Flower Altas_50: 9096565873465155373
+      Flower Altas_51: -7230428473287486431
+      Flower Altas_52: -5446993876863723991
+      Flower Altas_53: -4365574726327422695
+      Flower Altas_54: 2446019165050030866
+      Flower Altas_55: -4814251132832388517
+      Flower Altas_56: -2133634767744245681
+      Flower Altas_57: 8134251629609940563
+      Flower Altas_58: 4369385542253723748
+      Flower Altas_59: -1391796982953618243
+      Flower Altas_6: -2735919987032928075
+      Flower Altas_60: 2969577700723145937
+      Flower Altas_61: -7769044007030849074
+      Flower Altas_62: 7538349970907938188
+      Flower Altas_63: 2963736059802660533
+      Flower Altas_64: 5721916536598384480
+      Flower Altas_65: 882131418151952811
+      Flower Altas_66: 8671917359007881439
+      Flower Altas_67: 7066053644248161
+      Flower Altas_68: 6622493519999831584
+      Flower Altas_69: -6228725214403423291
+      Flower Altas_7: -2341318646843865328
+      Flower Altas_70: 5743060719207107974
+      Flower Altas_71: 2368246213016876832
+      Flower Altas_72: 4520889906673213966
+      Flower Altas_73: 1170997318703832481
+      Flower Altas_74: 2609132390895969525
+      Flower Altas_75: -1470758363729965436
+      Flower Altas_76: 3550064901080171958
+      Flower Altas_77: 3357250133232690088
+      Flower Altas_78: -6383043335184490334
+      Flower Altas_79: 8911727962292740095
+      Flower Altas_8: 4198817580612592814
+      Flower Altas_80: -4236879569987424150
+      Flower Altas_81: -5335224942719209410
+      Flower Altas_82: -5080410713622485947
+      Flower Altas_83: 3336500718688384092
+      Flower Altas_84: 2572485381422020857
+      Flower Altas_85: -8250043801065090557
+      Flower Altas_86: 4230556829968830430
+      Flower Altas_87: -1327433893617282600
+      Flower Altas_88: -8232326014166294961
+      Flower Altas_89: -538205131257508939
+      Flower Altas_9: 5245400352425469945
+      Flower Altas_90: 2215510538110671854
+      Flower Altas_91: 5652413044647099891
+      Flower Altas_92: -2949786852096362144
+      Flower Altas_93: 8561372564504481633
+      Flower Altas_94: -8678021304888138922
+      Flower Altas_95: 5313623698173653419
+      Flower Altas_96: -1021421084898416011
+      Flower Altas_97: 8210629236656547677
+      Flower Altas_98: 2997044546317263426
+      Flower Altas_99: -8757018080149202986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
