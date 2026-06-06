@@ -3263,7 +3263,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2
+      scalar: 2.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -16941,7 +16941,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 0.25293696, g: 0.26415092, b: 0.26415092, a: 1}
+  m_Color: {r: 0.33962262, g: 0.26432893, b: 0.26432893, a: 1}
   m_Origin: {x: -28, y: -16, z: 0}
   m_Size: {x: 53, y: 40, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -44079,7 +44079,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 0.94591194, b: 0.7971698, a: 1}
+  m_Color: {r: 0.9339623, g: 0.8186188, b: 0.73571557, a: 1}
   m_Origin: {x: -56, y: -42, z: 0}
   m_Size: {x: 106, y: 92, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -50524,7 +50524,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -64038,7 +64038,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 2
       minScalar: 1
       maxCurve:
         serializedVersion: 2
