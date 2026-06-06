@@ -22,7 +22,7 @@ public class Health : MonoBehaviour
         
         playerController = GetComponent<PlayerController>();
         UpdateHealth();
-        PlayerPrefs.GetFloat("Health",currenthealth);
+        PlayerPrefs.SetFloat("Health",currenthealth);
     }
 
     // Update is called once per frame
